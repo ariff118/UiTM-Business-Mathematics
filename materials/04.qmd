@@ -1,0 +1,250 @@
+---
+title: "Compound Interest"
+format: html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+>   
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+  .mySlides {display:none}
+</style>
+<body>
+  
+<div class="w3-container">
+  <h2>Learning Slides</h2>
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="images\compound\Slide1.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide2.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide3.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide4.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide5.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide6.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide7.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide8.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide9.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide10.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide11.png" style="width:100%">
+  <img class="mySlides" src="images\compound\Slide12.png" style="width:100%">
+</div>
+<div class="w3-center">
+  <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button>
+  <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next</button>
+</div>
+<div class="w3-center">
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+  <button class="w3-button demo" onclick="currentDiv(3)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(4)">4</button>
+  <button class="w3-button demo" onclick="currentDiv(5)">5</button> 
+  <button class="w3-button demo" onclick="currentDiv(6)">6</button> 
+  <button class="w3-button demo" onclick="currentDiv(7)">7</button>
+  <button class="w3-button demo" onclick="currentDiv(8)">8</button>
+  <button class="w3-button demo" onclick="currentDiv(9)">9</button> 
+  <button class="w3-button demo" onclick="currentDiv(10)">10</button> 
+  <button class="w3-button demo" onclick="currentDiv(11)">11</button>
+  <button class="w3-button demo" onclick="currentDiv(12)">12</button>
+</div>
+  
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+  
+</body>
+</html>  
+
+<aside>  
+[Download Learning Slides](files/slides/compound.pdf)
+</aside>  
+
+
+### Background  
+In this chapter students will be introduced on the concepts of time value of money. In addition, students will learn how use the compound amount formula to find the future value, compound interest, and present value of investments and loans.  
+
+### Time value of money  
+> The time value of money (TVM) is the concept that money you have now is worth more than the identical sum in the future due to its potential earning capacity. This core principle of finance holds that provided money can earn interest, any amount of money is worth more the sooner it is received. TVM is also sometimes referred to as present discounted value.  
+The time value of money draws from the idea that rational investors prefer to receive money today rather than the same amount of money in the future because of money's potential to grow in value over a given period of time. For example, money deposited into a savings account earns a certain interest rate and is therefore said to be compounding in value (Chan, 2020).  
+
+*Key Takeaways*  
+
+1. Time value of money is based on the idea that people would rather have money today than in the future.  
+
+2. Given that money can earn compound interest, it is more valuable in the present rather than the future.  
+
+3. The formula for computing time value of money considers the payment now, the future value, the interest rate, and the time frame.  
+
+4. The number of compounding periods during each time frame is an important determinant in the time value of money formula as well.  
+
+
+### What is compound interest?  
+
+In compound interest, interest is earned on both the principal and any interest that has been earned previously. In this situation each time the interest is calculated, it is based on the new principal value that include the previous amount of interest. Thus, the interest is calculated on the current value of principal at the time of calculation.  
+The process is illustrated in the table shown below.  
+
+<center>  
+![](images/compound/image2.png)  
+</center>  
+
+
+This is a bit different from simple interest as illustrated in the image shown below.  
+
+<center>  
+![](images/compound/image1.jpg){caption="Simple Interest vs Compound Interest"}  
+</center>  
+
+### Important terms use in compound interest  
+
+
+### Compound interest formula  
+The mathematical formula for calculating compound interest depends on several factors These factors include the amount of money deposited called the principal ($P$), the annual interest rate $k$ (in decimal form), the numberof times the money is compounded per year ($m$), and the number of years ($t$) the money is left in the bank These factors lead to the formula,  
+
+$$
+\begin {aligned}
+S\ &=\ P(1+i)^n \\
+\\
+where,\ S\ &=\ Compound\ Amount \\
+P\ &=\ Initial\ Principal \\
+i\ &=\ \frac{k}{m} \\
+n\ &=\ mt
+\end {aligned}
+$$  
+Thus, the compound interest can be calculated by subtracting the compound amount, S from the initial principal, P.  
+
+$$
+\begin {aligned}
+I\ = S\ -\ P
+\end {aligned}
+$$  
+
+### Determining the value of $m$  
+Given the interest of $k\%$ compounded $m$, the value of $m$ is shown in the table below:  
+
+| $k\%$ compounded $m$ | m |  
+|:--------------------:|:-:|  
+| annualy (every year) | 1 |  
+| semi-annualy (every six months) | 2 |  
+| every four months | 3 |  
+| quarterly (every three months) | 4 |  
+| every two months | 6 |  
+| monthly (every month) | 12 |  
+| weekly (every weeks) | 52 |  
+| daily (every day)* | 360 |  
+*Note:* *Banker's Rule  
+
+**Example** if interest is $3.5\%$ compounded monthly, the $k = 3.5\%$ and $m = 12$.  
+
+### Present Value  
+The following formula can be used to find the present value of a compound amount. In genearal, the present value is simply the intial principal of investment or loan.  
+
+$$
+P\ =\ \frac{S}{(1+i)^n}\ = S(1+i)^{-n}
+$$  
+
+
+**Important Keywords**  
+$P$ ---> saved, invested, borrowed, deposited  
+$S$ ---> total payment, total savings, accumulated amount  
+
+### Exercises  
+
+1. 8 years ago, RMX was invested at a bank that offered an interest rate of 8% compounded semi-annually. If the balance in the account today is RM5,618.95,  
+    i. Find the value of X. **[RM3000]**  
+    ii. If another RM2,000 is added in the same account today, find the amount at the end of the next 2 years. **[RM8913.09]**  
+  
+2. If Farahin invested RM2000 and after t years, she got RM6250 with interest 5.5% compounded every six months. How long was the investment? **[21 years]**  
+
+3. RM20,000 is invested in an investment fund that pays 6% compounded annually for 10 years.  
+    i. Find the compound amount. **[RM35816.95]**  
+    ii. Find the interest earned. **[RM15816.95]**  
+  
+4. Abu invested RM30,000 in a trust fund at 7% compounded semi-annually. He invests another RM30,000 in a mutual fund at 7% simple interest.  
+    i. Find the maturity value for each investment at the end of 3 years. **[Trust Fund = RM36877.66; Mutual Fund = RM36300]**  
+    ii. How much does the interest amount differ? **[RM577.66]**  
+  
+5. First Bank offers an interest of 7.5% compounded semi-annually while AZ Bank offers an interest of 7% compounded monthly.  
+    i. Find the effective rate corresponding to the given nominal rate for each bank. If Ahmad wants to invest his money, which bank should he invests his money in?  
+    ii. A man invests RM10, 000 in AZ bank for 5.5 years. What is the amount of interest obtained when the investment period ends?  
+  
+6. Amirul deposited RM1,000 in a savings account at 3% compounded monthly. Find the number of months required if he wanted the amount in the account to become RM2,000. **[277.6 months]**  
+
+7. Find the nominal rate compounded every two months which is equivalent to 10% compounded semi-annually. **[k =9.84%]**  
+
+8. A sum of money, RM Z was deposited in a savings account with interest 8% compounded quarterly. After one year, RM2000 was withdrawn. Three years after the withdrawal, the balance was RM 12865.29. Find the value of Z. **[RM11219.35]**  
+
+9. Wan Ahmad deposited RM14,000 into an account at an interest rate of 8% compounded monthly. Two years later he withdrew RM10,000 from the account. Find:  
+    i. the amount left in his account just after the withdrawal.**(RM6420.43)**  
+    ii the amount in the account 8 years after the withdrawal.**(RM12150.39)**  
+    iii. the effective rate which is equivalent to the nominal rate above.**(8.3%)**  
+    
+10. Find the future value and the interest earned if RM2,000 is invested for 3 years at 6% compounded monthly.**(S = RM2393.36, I = RM393.36)**  
+
+11. Haris invested RM4000 into an account that paid 8% compounded semi-annually. He intends to keep the account untouched for six years. However, after 4 years he is in need of money and had to withdraw RM 1,600 from the account.  
+    i. Find the amount left in the account six years after the initial investment. (RM4532.36)  
+    ii. Find the effective rate which is equivalent to the nominal rate above.(8.16%)  
+    
+12. Imran opened a savings account which offers an interest rate of 8% compounded quarterly with an initial deposit of RM2000. One and half years later, he deposited RM3000 into the same account. Find the amount accumulated two and a half years after the initial deposit.**(RM5685.29)**  
+
+13.	Fasha borrowed RM3000 at 6% compounded semi-annually for four years. Find the amount of interest charged.**(RM800.31)**  
+
+14.	RM600 is invested for 4 years 10 months. This investment is offered an interest rate of 9% compounded every three months for the first 2 years and 7% compounded monthly for the rest of the period. Calculate,  
+    i. the amount at the end of the investment period. **(RM873.66)**  
+    ii. the interest earned.**(RM273.66)**  
+    
+15.	Abdullah can invest his money either in Fund A that gives 9% interest compounded quarterly or in Fund B that gives 9% simple interest per year. If Abdullah wishes to invest RM50,000 for one year, which fund do you suggest him to invest in? Show your calculation.**(Fund A : S = RM54654.17, Fund B : S = RM54500, Fund A)**  
+
+16.	RM X was deposited in a savings account at 4.8% interest compounded monthly. 56 months later, RM4200 was withdrawn from the account and the balance was RM3903.32. Find the value of X.**(RM6480)**  
+
+17.	5 years ago, Aswad invested RM5660 in a bank at a rate of 12% compounded monthly. Find:  
+    i. the amount in the account today **(RM10282.50)**  
+    ii. the number of years required if Aswad wanted the amount in the account to become RM22344.26. **(RM11.5 years)**  
+    
+18.	A year ago Talib saved RM5000 in an account that pays interest 8.5% compounded semi-annually. Today, he saved another RM X into the same account. Find the value of X if he wants to accumulate RM10,000 one year from today. **(RM3767.24)**  
+
+19.	Mariam can save her money either at 9% compounded quarterly in Bank P or at 8.5% compounded monthly in Bank Q.  
+    i. Find the effective rate for each of the nominal rates.**(8.84%)**  
+    ii. Which rate yields more interest? **(9% compounded quarterly / re = 9.31% in bank P)**  
+    
+20.	Five years ago, Farez invested RM17000 into his account at k% compounded quarterly. Now the account balance has accumulated to RM 21262.76.  
+    i. Find the interest rate k% compounded quarterly. **(4.5%)**  
+    ii. Calculate the compound amount if the investment is extended for another two years. **(RM23253.48)**  
+    
+
+
+## Acknowledgements {.appendix}  
+Chan, J. (2020). *Time Value of Money (TVM)*. Retrieved from https://www.investopedia.com/terms/t/timevalueofmoney.asp on March 8, 2020.  

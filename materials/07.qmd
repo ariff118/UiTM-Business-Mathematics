@@ -1,0 +1,161 @@
+---
+title: "Mathematics of Retailing"
+format: html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+>   
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+  .mySlides {display:none}
+</style>
+<body>
+  
+<div class="w3-container">
+  <h2>Learning Slides</h2>
+</div>
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="images\mr\Slide1.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide2.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide3.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide4.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide5.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide6.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide7.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide8.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide9.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide10.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide11.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide12.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide13.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide14.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide15.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide16.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide17.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide18.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide19.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide20.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide21.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide22.png" style="width:100%">
+  <img class="mySlides" src="images\mr\Slide23.png" style="width:100%">
+</div>
+<div class="w3-center">
+  <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button>
+  <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next</button>
+</div>
+<div class="w3-center">
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+  <button class="w3-button demo" onclick="currentDiv(3)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(4)">4</button>
+  <button class="w3-button demo" onclick="currentDiv(5)">5</button> 
+  <button class="w3-button demo" onclick="currentDiv(6)">6</button> 
+  <button class="w3-button demo" onclick="currentDiv(7)">7</button>
+  <button class="w3-button demo" onclick="currentDiv(8)">8</button>
+  <button class="w3-button demo" onclick="currentDiv(9)">9</button> 
+  <button class="w3-button demo" onclick="currentDiv(10)">10</button> 
+  <button class="w3-button demo" onclick="currentDiv(11)">11</button>
+  <button class="w3-button demo" onclick="currentDiv(12)">12</button>
+  <button class="w3-button demo" onclick="currentDiv(13)">13</button> 
+  <button class="w3-button demo" onclick="currentDiv(14)">14</button> 
+  <button class="w3-button demo" onclick="currentDiv(15)">15</button>
+  <button class="w3-button demo" onclick="currentDiv(16)">16</button> 
+  <button class="w3-button demo" onclick="currentDiv(17)">17</button>
+  <button class="w3-button demo" onclick="currentDiv(18)">18</button>
+  <button class="w3-button demo" onclick="currentDiv(19)">19</button>
+  <button class="w3-button demo" onclick="currentDiv(10)">20</button> 
+  <button class="w3-button demo" onclick="currentDiv(11)">21</button>
+  <button class="w3-button demo" onclick="currentDiv(12)">22</button>
+  <button class="w3-button demo" onclick="currentDiv(13)">23</button> 
+</div>
+  
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+  
+</body>
+</html>
+
+<aside align="center">
+[Download Learning Slides](files/slides/mr.pdf)
+</aside>  
+
+## Learning Videos  
+
+| Video 1 | Video 2 |  
+|:-------:|:-------:|  
+|<iframe width="150" height="150" src="https://www.youtube.com/embed/KRYatZS5e1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/ikUaaHKOXVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|  
+
+| Video 3 | Video 4 | Video 5 |  
+|:-------:|:-------:|:-------:|  
+|<iframe width="150" height="150" src="https://www.youtube.com/embed/PCLWUgRgXOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/OgGJaANh1e0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/5FQOZk50E2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|  
+
+| Video 6 | Video 7 |  
+|:-------:|:-------:|  
+|<iframe width="150" height="150" src="https://www.youtube.com/embed/cfNk6aV2kdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/vupDwSIC3Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|  
+
+# Mathematics of Retailing  
+
+
+> **A T-Shirt Business**
+Shalon has a t-shirt business where she sells her own line of designer shirts. She is in it for the money. But in order to make money from selling her t-shirts, she needs to make sure her prices are at the right price point both in terms of making money and giving her customers a good deal. What she needs to balance is her markup, how much to increase her prices, and her markdown, how much to decrease prices.  
+
+## Markup  
+
+To calculate her markup, Shalon needs to take into consideration things like the cost of her time spent designing the shirts, the cost to manufacture the shirt, and the cost of keeping the store open. After all these costs are calculated, then she needs to figure out how much more she needs to add so she can make a good living from her t-shirt business.  
+
+Say, for instance, after considering all the factors we mentioned, that the total cost to make each shirt for Shalon is RM10. Of course, Shalon wants to make a profit from selling each shirt, so she marks up her shirt price to RM30. How much of a markup is this? Let's calculate it. RM30 is RM20 more than RM10. So dividing RM20 by RM10, we get 20/10 = 2. Changing this into a percentage, we see that Shalon has a markup of 200%.  
+
+Shalon wants to make sure she is competitive with other t-shirt businesses in town, so she does some investigating of her own. She visits another shop and she finds that this shop has a markup of 100%. If the manufacturing cost of the product is RM10, how much is this shop selling the shirts for?  
+
+We can calculate this by multiplying the RM10 with the 100% to find how much our increase is. Changing the 100% to a decimal, we get 1 for our decimal. Multiplying the 10 with the 1, we find that this shop has increased their prices by RM10 per shirt. So the shirts here cost RM10 + RM10 = RM20.  
+
+Hmm, Shalon is thinking that her prices might be a bit steep for the customers in the neighborhood based on her investigations.  
+
+## Markdown  
+
+Now she is considering how much to mark down her prices. Her starting price is RM30. If she wants to decrease her prices to RM20, how much of a markdown does she need? To calculate this, we first see how much of a difference we have. We have a difference of RM30 - RM20 = RM10. So, the markdown is RM10/RM30 = 0.3333 or roughly 33%.  
+
+Shalon can do this two ways. She can either offer a 33% off coupon to all her customers or she can decrease her prices without offering coupons. Even if she sells a shirt for RM20, she is still making profit.  
+
+
+## Acknowledgments {.appendix}
+
+Some of the notes above are taken from online course [Business 110: Math Class from Study.com](https://study.com/academy/course/business-math.html)  
+Markup & Markdown: Calculation & Examples. (2014, December 10). Retrieved from https://study.com/academy/lesson/markup-markdown-calculation-examples.html.  

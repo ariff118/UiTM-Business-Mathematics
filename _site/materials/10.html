@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-0.9.505">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="Reminder: This topic is only covered in MAT402.">
+
+<title>Business Mathematics for UiTM - Income Tax</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Business Mathematics for UiTM</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html">Home</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-web-notes" role="button" data-bs-toggle="dropdown" aria-expanded="false">Web Notes</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-web-notes">    
+        <li>
+    <a class="dropdown-item" href="../materials/01.html">
+ <span class="dropdown-text">Sequence</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/02.html">
+ <span class="dropdown-text">Simple Interest</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/03.html">
+ <span class="dropdown-text">Bank Discount &amp; Promissory Notes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/04.html">
+ <span class="dropdown-text">Compound Interest</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/05.html">
+ <span class="dropdown-text">Annuity</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/06.html">
+ <span class="dropdown-text">Trade &amp; Cash Discount</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/07.html">
+ <span class="dropdown-text">Mathematics of Retailing</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/08.html">
+ <span class="dropdown-text">Installment Purchase</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/09.html">
+ <span class="dropdown-text">Depreciation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../materials/10.html">
+ <span class="dropdown-text">Income Tax (MAT402 ONLY)</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://quarto.org/">Quarto Docs</a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ariff118/"><i class="bi bi-github" role="img">
+</i> 
+ </a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/quarto_pub"><i class="bi bi-twitter" role="img">
+</i> 
+ </a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Income Tax</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Webnotes</a>
+      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/01.html" class="sidebar-item-text sidebar-link">Sequence</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/02.html" class="sidebar-item-text sidebar-link">Simple Interest</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/03.html" class="sidebar-item-text sidebar-link">Bank Discount &amp; Promissory Notes</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/04.html" class="sidebar-item-text sidebar-link">Compound Interest</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/05.html" class="sidebar-item-text sidebar-link">Annuity</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/06.html" class="sidebar-item-text sidebar-link">Trade &amp; Cash Discount</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/07.html" class="sidebar-item-text sidebar-link">Mathematics of Retailing</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/08.html" class="sidebar-item-text sidebar-link">Installment Purchase</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/09.html" class="sidebar-item-text sidebar-link">Depreciation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../materials/10.html" class="sidebar-item-text sidebar-link active">Income Tax (MAT402 ONLY)</a>
+  </div>
+</li>
+    </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#type-of-assessment" id="toc-type-of-assessment" class="nav-link" data-scroll-target="#type-of-assessment">Type of Assessment</a></li>
+  <li><a href="#how-to-calculate-tax-payable-amount" id="toc-how-to-calculate-tax-payable-amount" class="nav-link" data-scroll-target="#how-to-calculate-tax-payable-amount">How to calculate tax payable amount?</a>
+  <ul class="collapse">
+  <li><a href="#aggregate-income" id="toc-aggregate-income" class="nav-link" data-scroll-target="#aggregate-income">1. <em>Aggregate Income</em></a></li>
+  <li><a href="#donation" id="toc-donation" class="nav-link" data-scroll-target="#donation">2. <em>Donation</em></a></li>
+  <li><a href="#reliefs" id="toc-reliefs" class="nav-link" data-scroll-target="#reliefs">3. <em>Reliefs</em></a></li>
+  <li><a href="#taxable-income-chargeable-income" id="toc-taxable-income-chargeable-income" class="nav-link" data-scroll-target="#taxable-income-chargeable-income">4. <em>Taxable Income (Chargeable Income)</em></a></li>
+  <li><a href="#rebates" id="toc-rebates" class="nav-link" data-scroll-target="#rebates">5. <em>Rebates</em></a></li>
+  </ul></li>
+  <li><a href="#solved-examples" id="toc-solved-examples" class="nav-link" data-scroll-target="#solved-examples">Solved Examples</a>
+  <ul class="collapse">
+  <li><a href="#tax-assessment-for-individual-who-is-single" id="toc-tax-assessment-for-individual-who-is-single" class="nav-link" data-scroll-target="#tax-assessment-for-individual-who-is-single">Tax assessment for individual who is single</a></li>
+  <li><a href="#tax-assessment-for-individual-who-is-married" id="toc-tax-assessment-for-individual-who-is-married" class="nav-link" data-scroll-target="#tax-assessment-for-individual-who-is-married">Tax assessment for individual who is married</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Income Tax</h1>
+</div>
+
+<div>
+  <div class="description">
+    <p>Reminder: This topic is only covered in MAT402.</p>
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<blockquote class="blockquote">
+
+</blockquote>
+
+<title>
+W3.CSS
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+  .mySlides {display:none}
+</style>
+
+<div class="w3-container">
+<h2 class="anchored">
+Learning Slides
+</h2>
+</div>
+<div class="w3-content" style="max-width:800px">
+<p><img class="mySlides" src="images\income\Slide1.png" style="width:100%"> <img class="mySlides" src="images\income\Slide2.png" style="width:100%"> <img class="mySlides" src="images\income\Slide3.png" style="width:100%"> <img class="mySlides" src="images\income\Slide4.png" style="width:100%"> <img class="mySlides" src="images\income\Slide5.png" style="width:100%"> <img class="mySlides" src="images\income\Slide6.png" style="width:100%"> <img class="mySlides" src="images\income\Slide7.png" style="width:100%"> <img class="mySlides" src="images\income\Slide8.png" style="width:100%"> <img class="mySlides" src="images\income\Slide9.png" style="width:100%"> <img class="mySlides" src="images\income\Slide10.png" style="width:100%"> <img class="mySlides" src="images\income\Slide11.png" style="width:100%"> <img class="mySlides" src="images\income\Slide12.png" style="width:100%"> <img class="mySlides" src="images\income\Slide13.png" style="width:100%"> <img class="mySlides" src="images\income\Slide14.png" style="width:100%"> <img class="mySlides" src="images\income\Slide15.png" style="width:100%"> <img class="mySlides" src="images\income\Slide16.png" style="width:100%"> <img class="mySlides" src="images\income\Slide17.png" style="width:100%"> <img class="mySlides" src="images\income\Slide18.png" style="width:100%"></p>
+</div>
+<div class="w3-center">
+<p><button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button> <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next</button></p>
+</div>
+<div class="w3-center">
+<p><button class="w3-button demo" onclick="currentDiv(1)">1</button> <button class="w3-button demo" onclick="currentDiv(2)">2</button> <button class="w3-button demo" onclick="currentDiv(3)">3</button> <button class="w3-button demo" onclick="currentDiv(4)">4</button> <button class="w3-button demo" onclick="currentDiv(5)">5</button> <button class="w3-button demo" onclick="currentDiv(6)">6</button> <button class="w3-button demo" onclick="currentDiv(7)">7</button> <button class="w3-button demo" onclick="currentDiv(8)">8</button> <button class="w3-button demo" onclick="currentDiv(9)">9</button> <button class="w3-button demo" onclick="currentDiv(10)">10</button> <button class="w3-button demo" onclick="currentDiv(11)">11</button> <button class="w3-button demo" onclick="currentDiv(12)">12</button> <button class="w3-button demo" onclick="currentDiv(13)">13</button> <button class="w3-button demo" onclick="currentDiv(14)">14</button> <button class="w3-button demo" onclick="currentDiv(15)">15</button> <button class="w3-button demo" onclick="currentDiv(16)">16</button> <button class="w3-button demo" onclick="currentDiv(17)">17</button> <button class="w3-button demo" onclick="currentDiv(18)">18</button></p>
+</div>
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+
+
+<aside>
+<a href="files/slides/income.pdf">Download Learning Slides</a>
+</aside>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>This chapter deals with the concepts of income tax. However, for this course we will only cover on the topic of personal income tax. By the end of this chapter, student should be able to:</p>
+<ol type="1">
+<li>identify allowance deductions for income tax purposes,<br>
+</li>
+<li>determine chargeable income,<br>
+</li>
+<li>use the tax schedule to determine the tax amount,<br>
+</li>
+<li>recognize that tax rebate is allowed for a chargeable income of less than RM35,000 and that zakat is an allowable rebate, and<br>
+</li>
+<li>calculate tax payable.</li>
+</ol>
+</section>
+<section id="type-of-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="type-of-assessment">Type of Assessment</h2>
+<blockquote class="blockquote">
+<p>Income tax is the normal tax which is paid on your taxable (chargeable) income.</p>
+</blockquote>
+<p><strong>Two types of Assessment:</strong></p>
+<ol type="1">
+<li>Separate Assessment, such that:
+<ol type="i">
+<li>Tax is calculated individually. For instance : bachelor, husband only, wife only.<br>
+</li>
+<li>Husband the only one working (wife get relief and rebate).<br>
+</li>
+<li>Children are assessed under husband unless it is requested by wife.</li>
+</ol></li>
+<li>Joint Assessment, such that:
+<ol type="i">
+<li>Tax is calculated together. For instance : husband + wife.<br>
+</li>
+<li>For Parents Medical Expenses, only husband part is calculated.</li>
+</ol></li>
+</ol>
+</section>
+<section id="how-to-calculate-tax-payable-amount" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-calculate-tax-payable-amount">How to calculate tax payable amount?</h2>
+<p>To calculate tax payable amount, there are 5 steps:</p>
+<section id="aggregate-income" class="level3">
+<h3 class="anchored" data-anchor-id="aggregate-income">1. <em>Aggregate Income</em></h3>
+<ul>
+<li>Annual Income (the salary for 12 months)<br>
+</li>
+<li>For joint assessment, the aggregate income must be the combination income of husband and wife.</li>
+</ul>
+</section>
+<section id="donation" class="level3">
+<h3 class="anchored" data-anchor-id="donation">2. <em>Donation</em></h3>
+<table class="table">
+<colgroup>
+<col style="width: 63%">
+<col style="width: 36%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Contribution</th>
+<th style="text-align: center;">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Gift of money to the Government, State Government or Local Authorities.</td>
+<td style="text-align: center;">NIL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Gift of money to Approved Institutions or Organisations.</td>
+<td style="text-align: center;">(Amount is limited to 7% of aggregate income)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Gift of money or cost of contribution in kind for any Approved Sports Activity or Sports Body.</td>
+<td style="text-align: center;">(Amount is limited to 7% of aggregate income)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Gift of money or cost of contribution in kind for any Approved Project of National Interest Approved by Ministry of Finance.</td>
+<td style="text-align: center;">(Amount is limited to 7% of aggregate income)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Gift of artifacts, manuscripts or paintings.</td>
+<td style="text-align: center;">NIL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Gift of money for provision of Library Facilities or to Libraries</td>
+<td style="text-align: center;">NIL</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="reliefs" class="level3">
+<h3 class="anchored" data-anchor-id="reliefs">3. <em>Reliefs</em></h3>
+<center style="max-width:700px">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="files/notes/reliefs_2019.png" class="img-fluid figure-img"></p>
+<p></p><figcaption aria-hidden="true" class="figure-caption">Individual Tax Reliefs 2019</figcaption><p></p>
+</figure>
+</div>
+</center>
+</section>
+<section id="taxable-income-chargeable-income" class="level3">
+<h3 class="anchored" data-anchor-id="taxable-income-chargeable-income">4. <em>Taxable Income (Chargeable Income)</em></h3>
+<center style="max-width:700px">
+<img src="files/notes/tax_schedule_2018_2019.png" class="img-fluid">
+</center>
+</section>
+<section id="rebates" class="level3">
+<h3 class="anchored" data-anchor-id="rebates">5. <em>Rebates</em></h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">No.</th>
+<th style="text-align: left;">Tax Rebates</th>
+<th style="text-align: center;">Amount (RM)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1.</td>
+<td style="text-align: left;">Husband (Taxable income below RM35,000)</td>
+<td style="text-align: center;">400</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2.</td>
+<td style="text-align: left;">Wife (Taxable income below RM35,000)</td>
+<td style="text-align: center;">400</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3.</td>
+<td style="text-align: left;">Zakat</td>
+<td style="text-align: center;">No Limit</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="solved-examples" class="level2">
+<h2 class="anchored" data-anchor-id="solved-examples">Solved Examples</h2>
+<section id="tax-assessment-for-individual-who-is-single" class="level3">
+<h3 class="anchored" data-anchor-id="tax-assessment-for-individual-who-is-single">Tax assessment for individual who is single</h3>
+</section>
+<section id="tax-assessment-for-individual-who-is-married" class="level3">
+<h3 class="anchored" data-anchor-id="tax-assessment-for-individual-who-is-married">Tax assessment for individual who is married</h3>
+<p><strong>Separate Assessment</strong></p>
+<p><strong>Joint Assessment</strong></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">This page was built with ❤️ and <a href="https://quarto.org/">Quarto</a> by <a href="https://ariff118.github.io/kamansor.github.io">KA Mansor</a>.</div>   
+  </div>
+</footer>
+
+
+
+</body></html>

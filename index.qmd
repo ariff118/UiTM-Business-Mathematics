@@ -1,0 +1,156 @@
+---
+title: "Business Mathematics for UiTM"
+---
+
+---
+title: "Business Mathematics for UiTM"
+format: html
+---
+
+## Course Information  
+
+### Course Learning Outcomes  
+At the end of the course, students should be able to:  
+
+1. Express basic algebraic concepts in solving business application problems. ( C2 )  
+
+2. Solve mathematical problems encountered in banking and finance, trading and retailing, and accounting. ( C3 )  
+
+3. Determine mathematical concepts to solve mathematical problems in banking and finance, trading and retailing, and accounting. ( C4 )  
+
+4. Relate business mathematics applications to their respective field. ( A4 )  
+
+### Course Description  
+The course is primarily designed to develop the mathematical knowledge needed by the students to meet the demands of business operation. It is to provide a solid coverage of the most basic and frequently occurring business situations.  
+
+### Syllabus Content  
+1. Fundamental Concepts of Mathematics  
+  1.1 Review on Algebra:  
+  1.2 Sequence  
+  
+2. Mathematical Applications in Banking and Finance  
+  2.1 Simple Interest  
+  2.2 Bank Discount and Promissory Notes  
+  2.3 Compound Interest  
+  2.4 Annuity  
+  
+3. Mathematical Applications In trading and retailing  
+  3.1 Trade and cash discounts  
+  3.2 Mark up and Mark Down  
+  3.3 Instalment Purchase  
+  
+4. Mathematical Applications In Accounting  
+  4.1 Depreciation  
+  
+  
+### Teaching Methodologies  
+  - Lectures  
+  - Tutorial  
+
+### Proposed % Marks Approved by KPP  
+| Question Difficulty | Levels Range |  
+|:-------------------:|:------------:|  
+| C1 - C2 | 30 - 45 |  
+| C3 - C4 | 45 - 65 |  
+| C5 - C6 | 10 - 25 |  
+
+### Assessment  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}
+Continuous Assessment:
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="65%"}
+40.00%  
+Assignment - 4% out of 100 on Week 13. Passing Mark(s): 4  
+Individual Assignment  
+CLO: 4  
+
+Quiz - 2% out of 100 on Week 3. Passing Mark(s): 2  
+Quiz 1  
+CLO: 1  
+
+Quiz - 2% out of 100 on Week 7. Passing Mark(s): 2  
+Quiz 2  
+CLO: 2  
+
+Quiz - 2% out of 100 on Week 11. Passing Mark(s): 2  
+Quiz 3  
+CLO: 3  
+
+Test - 15% out of 100 on Week 9. Passing Mark(s): 15  
+Test 1  
+CLO: 2  
+
+Test - 15% out of 100 on Week 14. Passing Mark(s): 15  
+Test 2  
+CLO: 3  
+:::  
+
+::::::
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}
+Final Assessment:
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="65%"}
+60.00%  
+Final Examination - 60% out of 100 on End of Semester. Passing Mark(s): 30  
+Final Examination (All Chapters)  
+CLO: 1, 2, 3  
+Duration : 180 minutes  
+:::  
+
+::::::  
+
+### Transferable Skills  
+Demonstrate maturity of thoughts when responding to multiple inputs and contexts.  
+
+### Recommended Text  
+1. Lau Too Kya,Phang Yook Ngor and Wee Kok Kiang, Business Mathematics for UiTM, 5th edition, Oxford Fajar Sdn Bhd, 2015, ISBN: n/a  
+
+### References  
+
+1. Paul Lau Ngee Kiong, Business Mathematics, 1st, UiTM Press, 2013, ISBN: n/a  
+2. Gary Clendenen,Stanley A. Salzman, Business Mathematics, 13th, Pearson College Division, 2014, ISBN: n/a  
+3. James Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: n/a  
+4. Eugene Don, Joel Lerner, Schaum's Outline of Basic Mathematics, 2nd, McGraw-Hill, 2009, ISBN: n/a  
+5. Zin Ibrahim, Daud Mohamad, Business Mathematics, 1st, McGraw-Hill, 2008, ISBN: n/a  
+6. Robert Brechner, and George Bergeman,, Contemporary Mathematics for Business and Contemporary Mathematics for Business and Consumers, 7th edition, Cengage Learning, 2015, ISBN: n/a  
+
+### Other References  
+This module does not have other references  
+
+## Support Materials
+
+| Past Semester Exam Papers | Answer Scheme |  
+|:-------------------------:|:-------------:|  
+| [June 2019](files/support document/mat112/MAT112 June 2019.PDF) | [Answer Scheme June 2019](files/support document/mat112/MAT112 SKEMA JUNE 2019.pdf) |  
+| [Dec 2018](files/support document/mat112/MAT112 Dec 2018.PDF) | [Answer Scheme Dec 2018](files/support document/mat112/MAT112 SKEMA DEC 2018.pdf) |  
+| [Jan 2018](files/support document/mat112/MAT112 Jan 2018.PDF) | [Answer Scheme Jan 2018](files/support document/mat112/MAT112 SKEMA JAN 2018.pdf) |  
+
+
+**Past Test Paper With Answers**  
+[Test 2 Dec 2019](files/support document/mat112/Test 2 Dec 2019.pdf)  
+[Test 1 Nov 2019](files/support document/mat112/Test 1 Nov 2019.pdf)  
+
+**Workshops Questions With Answers**  
+[Nov 2019 Session 1](files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 1.pdf) [Answers](files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 1.pdf)  
+
+[Nov 2019 Session 2](files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 2.pdf) [Answers](files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 2.pdf)    

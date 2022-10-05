@@ -1,0 +1,169 @@
+---
+title: "Annuity"
+format: html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+>   
+
+## Learning Outcomes  
+
+By the end of this chapter, student should be able to:  
+
+  - find the future value of annuity,  
+  - find the present value of annuity,  
+  - solve for annuity payment, R, the number of payments, n, and the interest rate, I, and  
+  - identify the problems where the present value and the future value of the annuity formula can be appropriately applied.  
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+  .mySlides {display:none}
+</style>
+<body>
+  
+<div class="w3-container">
+  <h2>Learning Slides</h2>
+</div>
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="images\annuity\Slide1.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide2.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide3.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide4.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide5.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide6.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide7.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide8.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide9.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide10.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide11.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide12.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide13.png" style="width:100%">
+  <img class="mySlides" src="images\annuity\Slide14.png" style="width:100%">
+</div>
+<div class="w3-center">
+  <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button>
+  <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next</button>
+</div>
+<div class="w3-center">
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+  <button class="w3-button demo" onclick="currentDiv(3)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(4)">4</button>
+  <button class="w3-button demo" onclick="currentDiv(5)">5</button> 
+  <button class="w3-button demo" onclick="currentDiv(6)">6</button> 
+  <button class="w3-button demo" onclick="currentDiv(7)">7</button>
+  <button class="w3-button demo" onclick="currentDiv(8)">8</button>
+  <button class="w3-button demo" onclick="currentDiv(9)">9</button> 
+  <button class="w3-button demo" onclick="currentDiv(10)">10</button> 
+  <button class="w3-button demo" onclick="currentDiv(11)">11</button>
+  <button class="w3-button demo" onclick="currentDiv(12)">12</button>
+  <button class="w3-button demo" onclick="currentDiv(13)">13</button> 
+  <button class="w3-button demo" onclick="currentDiv(14)">14</button> 
+</div>
+  
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+  
+</body>
+</html>
+  
+<aside>  
+[Download Learning Slides](files/slides/annuity.pdf)
+</aside>  
+
+## Introduction  
+
+An annuity is a sequence of payments made at regular time intervals.  The time period in which these payments are made is called the term of the annuity while payment period is interval between annuity payments.  
+
+An annuity in which the payments are made at the end of each payment period is called an ordinary annuity
+An annuity in which the payment period coincides wit the interest compounding period is called a simple annuity.  
+
+Annuities considered here have terms given by fixed time intervals, periodic payments equal in size, payments made at the end of the payment periods, and payment periods coincide with the interest compounding period.  
+
+Example of annuity includes house rents, mortgage payments, instalment payments on automobiles, and interest payments on money invested.  
+
+## Future Value of an Annuity  
+
+The future value $S$ of an annuity of $n$ payments of $R$ ringgits each, paid at the end of each investment period into an account that earns interest at the rate of $i$ per period, is given by  
+
+$$
+S\ =\ R\bigg[\frac{(1\ +\ i)^n\ -\ 1}{i}\bigg]  
+$$  
+
+Then, to find the amount of interest  paid or earned can be found by subtracting the total amount paid from the future value, i.e.,  
+
+$$
+I\ =\ S\ -\ nR  
+$$  
+
+## Present Value of an Annuity  
+
+The present value $P$ of an annuity of $n$ payments of $R$ ringgits each, paid at the end of each investment period into an account that earns interest at the rate of $i$ per period, is  
+
+$$
+A\ =\ R\bigg[\frac{1\ -\ (1\ +\ i)^{-n}}{i}\bigg]  
+$$  
+
+Then, to find the amount of interest  paid or earned can be found by subtracting the present value from the total amount paid, i.e.,  
+
+$$
+I\ =\ nR\ -\ A  
+$$  
+
+## Application of Annuity  
+
+The application of annuity include the concept of taking a loan from a financial institution, purchasing item through instalment, etc.  
+
+> Consider a scenario where you want to buy a house worth RM250,000 cash price from a house developer. Since you don’t have that much money, a bank offers a loan, 90% of the cash price at certain interest rate paid through equal payment for certain duration of time. Thus, in this case you will have to pay the developer 10% of the cash price as down payment, while the balance 90% will be paid by the bank to the developer for the remaining amount. All you need to do now is to repay the loan to the bank by instalment.  
+
+Here we have,  
+Down Payment (DP) = % x Cash Price (CP) = 10% x 250,000 = 25,000
+Balance (A) = CP – DP = 250,000 – 25,000 = **RM 225,000** <--	This is the amount that you have to loan from a bank  
+
+Two (2) important comcepts to remember:  
+
+1. When you have late payments --> use formula $S$ (keywords: failed to pay or arrears).  
+2. When you want to pay early --> use formula $A$ (keywords: settle the debt/loan immediately).  
+
+
+
+
+
+
+

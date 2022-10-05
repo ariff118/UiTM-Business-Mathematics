@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Business Mathematics for UiTM",
+    "section": "",
+    "text": "At the end of the course, students should be able to:\n\nExpress basic algebraic concepts in solving business application problems. ( C2 )\nSolve mathematical problems encountered in banking and finance, trading and retailing, and accounting. ( C3 )\nDetermine mathematical concepts to solve mathematical problems in banking and finance, trading and retailing, and accounting. ( C4 )\nRelate business mathematics applications to their respective field. ( A4 )\n\n\n\n\nThe course is primarily designed to develop the mathematical knowledge needed by the students to meet the demands of business operation. It is to provide a solid coverage of the most basic and frequently occurring business situations.\n\n\n\n\nFundamental Concepts of Mathematics\n1.1 Review on Algebra:\n1.2 Sequence\nMathematical Applications in Banking and Finance\n2.1 Simple Interest\n2.2 Bank Discount and Promissory Notes\n2.3 Compound Interest\n2.4 Annuity\nMathematical Applications In trading and retailing\n3.1 Trade and cash discounts\n3.2 Mark up and Mark Down\n3.3 Instalment Purchase\nMathematical Applications In Accounting\n4.1 Depreciation\n\n\n\n\n\nLectures\n\nTutorial\n\n\n\n\n\n\n\nQuestion Difficulty\nLevels Range\n\n\n\n\nC1 - C2\n30 - 45\n\n\nC3 - C4\n45 - 65\n\n\nC5 - C6\n10 - 25\n\n\n\n\n\n\n\n\nContinuous Assessment:\n\n\n  \n\n\n40.00%\nAssignment - 4% out of 100 on Week 13. Passing Mark(s): 4\nIndividual Assignment\nCLO: 4\nQuiz - 2% out of 100 on Week 3. Passing Mark(s): 2\nQuiz 1\nCLO: 1\nQuiz - 2% out of 100 on Week 7. Passing Mark(s): 2\nQuiz 2\nCLO: 2\nQuiz - 2% out of 100 on Week 11. Passing Mark(s): 2\nQuiz 3\nCLO: 3\nTest - 15% out of 100 on Week 9. Passing Mark(s): 15\nTest 1\nCLO: 2\nTest - 15% out of 100 on Week 14. Passing Mark(s): 15\nTest 2\nCLO: 3\n\n\n\n\nFinal Assessment:\n\n\n  \n\n\n60.00%\nFinal Examination - 60% out of 100 on End of Semester. Passing Mark(s): 30\nFinal Examination (All Chapters)\nCLO: 1, 2, 3\nDuration : 180 minutes\n\n\n\n\n\nDemonstrate maturity of thoughts when responding to multiple inputs and contexts.\n\n\n\n\nLau Too Kya,Phang Yook Ngor and Wee Kok Kiang, Business Mathematics for UiTM, 5th edition, Oxford Fajar Sdn Bhd, 2015, ISBN: n/a\n\n\n\n\n\nPaul Lau Ngee Kiong, Business Mathematics, 1st, UiTM Press, 2013, ISBN: n/a\n\nGary Clendenen,Stanley A. Salzman, Business Mathematics, 13th, Pearson College Division, 2014, ISBN: n/a\n\nJames Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: n/a\n\nEugene Don, Joel Lerner, Schaum’s Outline of Basic Mathematics, 2nd, McGraw-Hill, 2009, ISBN: n/a\n\nZin Ibrahim, Daud Mohamad, Business Mathematics, 1st, McGraw-Hill, 2008, ISBN: n/a\n\nRobert Brechner, and George Bergeman,, Contemporary Mathematics for Business and Contemporary Mathematics for Business and Consumers, 7th edition, Cengage Learning, 2015, ISBN: n/a\n\n\n\n\nThis module does not have other references"
+  },
+  {
+    "objectID": "index.html#support-materials",
+    "href": "index.html#support-materials",
+    "title": "Business Mathematics for UiTM",
+    "section": "Support Materials",
+    "text": "Support Materials\n\n\n\nPast Semester Exam Papers\nAnswer Scheme\n\n\n\n\nJune 2019\nAnswer Scheme June 2019\n\n\nDec 2018\nAnswer Scheme Dec 2018\n\n\nJan 2018\nAnswer Scheme Jan 2018\n\n\n\nPast Test Paper With Answers\nTest 2 Dec 2019\nTest 1 Nov 2019\nWorkshops Questions With Answers\nNov 2019 Session 1 Answers\nNov 2019 Session 2 Answers"
+  },
+  {
+    "objectID": "materials/01.html",
+    "href": "materials/01.html",
+    "title": "Sequence",
+    "section": "",
+    "text": "Ya Allah! Kami memohon kepadaMu Ya Allah, berilah kami iman yang sempurna, ilmu yang memberi manfaat, rezeki yang halal, anak yang soleh dan solehah, rumahtangga yang bahagia, usia yang berkat, doa yang mustajab, hajat yang tertunai, kesihatan yang berterusan, hutang yang terbayar, keselamatan dan kesejahteraan di dunia dan akhirat. Aamiin Ya Rabbal’alamiin"
+  },
+  {
+    "objectID": "materials/01.html#introduction-to-sequence",
+    "href": "materials/01.html#introduction-to-sequence",
+    "title": "Sequence",
+    "section": "Introduction to sequence",
+    "text": "Introduction to sequence\nIn general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequence is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. In this chapter, students will be introduced to two type of sequence; Arithmetic Sequence and Geometric Sequence. For both types, students will be exposed on the concepts of the \\(n^{th}\\ term\\) of a sequence and the \\(sum\\ of\\ the\\ first\\) \\(n^{th}\\ term\\) of a sequence. Finally, students will be exposed on how to apply the concepts of arithmetic and geometric sequences to some common problems in daily life."
+  },
+  {
+    "objectID": "materials/01.html#what-is-a-sequence",
+    "href": "materials/01.html#what-is-a-sequence",
+    "title": "Sequence",
+    "section": "What is a sequence?",
+    "text": "What is a sequence?\nSequence can be defined as a set of numbers which are written in specific order or following a specific rule. For example,\n\\[\n\\begin{aligned}\n&0,\\ 2,\\ 4,\\ 6,\\ 8,\\ …  \\\\\n&1,\\ 3,\\ 9,\\ 27,\\ …  \\\\\n&17,\\ 12,\\ 7,\\ 2,\\ -3,\\ -8,\\ -13.\n\\end{aligned}\n\\]\nThe three sets of numbers above are an example of sequence since between adjacent values, it follows certain order or rule."
+  },
+  {
+    "objectID": "materials/01.html#arithmetic-sequence",
+    "href": "materials/01.html#arithmetic-sequence",
+    "title": "Sequence",
+    "section": "Arithmetic sequence",
+    "text": "Arithmetic sequence\nConsider this sequence\n\n\\(5, 13, 21, 29,…\\)\n\nIt starts with a particular first term, and to get the next term, add a fixed value to the previous term. In the above set of values, we add 8 to get the next term. The difference between consecutive terms is a constant.\ni.e.,\n\\[\n\\begin{aligned}\n&5,\\ 5 + 8,\\ 5 + 8 + 8,\\ 5 + 8 + 8 + 8,\\ …  \\\\\n&5,\\ 5 + 8,\\ 5 + 2(8),\\ 5 + 3(8),\\ …  \\\\\n&5,\\ 13,\\ 21,\\ 29,\\ …  \\\\\n\\end{aligned}\n\\]\nDefinition\nAn arithmetic progression is a sequence where each new term after the first is obtained by adding a constant \\(d\\), called the common difference, to the preceding term. If the first term of the sequence is \\(a\\) then the arithmetic progression is\n\n\\(a, a + d, a + 2d, a + 3d,...\\)\n\nwhere the nth term is given by the formula\n\\[\nT_n = a + (n − 1)d  \n\\]\n\nFinding the nth term\nExample 1\nWrite down the first five terms of the Arithmetic Sequence with first term 8 and common difference 7. So, here we have \\(a = 8\\) and \\(d = 7\\).\nUsing the general formula of \\(n^{th}\\) term,\n\\[\n\\begin{aligned}\nT_n &= a + (n - 1)d \\\\\nT_1 &= a = 8 \\\\\nT_2 &= a + d = 8 + 7 = 15 \\\\\nT_3 &= a + 2d = 8 + 2(7) = 22 \\\\\nT_4 &= a + 3d = 8 + 3(7) = 29 \\\\\nT_5 &= a + 4d = 8 + 4(7) = 36 \\\\\n\\end{aligned}\n\\]\nThe sequence is \\(8, 15, 22, 29, 36,…\\)\nExample 2\nWrite down the first five terms of the Arithmetic Sequence with first term 2 and common difference −5. So, here we have \\(a = 2\\) and \\(d = -5\\).\nUsing the general formula of \\(n^{th}\\) term,\n\\[\n\\begin{aligned}\nT_n &= a + (n - 1)d \\\\\nT_1 &= a = 2 \\\\\nT_2 &= a + d = 2 + (-5) = -3 \\\\\nT_3 &= a + 2d = 2 + 2(-5) = -8 \\\\\nT_4 &= a + 3d = 2 + 3(-5) = -13 \\\\\nT_5 &= a + 4d = 2 + 4(-5) = -18 \\\\\n\\end{aligned}\n\\]\nThe sequence is \\(2, -3, -8, -13, -18,…\\)\n\n\nFinding the sum of the first n terms\nThe sum of the terms of an arithmetic progression gives an arithmetic series. If the starting value is \\(a\\) and the common difference is \\(d\\) then the sum of the first \\(n\\) terms is given by,\n\\[\nS_n = \\frac{n}{2}[2a + (n - 1)d]\n\\]\nExample 3\nFind the sum of the first 50 terms of the sequence\n\n\\(1, 3, 5, 7, 9,...\\)\n\nHere, we have \\(a = 1\\), \\(d = 2\\), and \\(n = 50\\). Use the formula \\(S_n = \\frac{n}{2}[2a + (n - 1)d]\\), we get\n\\[\n\\begin{aligned}\nS_50 &= \\frac{50}{2}[2(1) + (50-1)(2)] \\\\\n&= 25[2+49(2)] \\\\\n&= 25(100) \\\\\n&= 2,500\n\\end{aligned}\n\\]\nExample 4\nAn arithmetic progression has 3 as its first term. Also, the sum of the first 8 terms is twice the sum of the first 5 terms. Find the common difference.\nHere, we are given \\(a = 3\\) and \\(S_8 = 2S5\\).\nThus,\n\\[\n\\begin{aligned}\nS_8 &= 2S_5 \\\\\n\\frac{8}{2}[2(3)+(8-1)d] &= 2\\bigg{[}\\frac{5}{2}[2(3)+(5-1)d]\\bigg{]} \\\\\n4[6+7d] &= 5[6+4d] \\\\\n24+28d &= 30+20d \\\\\n8d &= 6 \\\\\nd &= \\frac{3}{4}\n\\end{aligned}\n\\]"
+  },
+  {
+    "objectID": "materials/01.html#geometric-sequence",
+    "href": "materials/01.html#geometric-sequence",
+    "title": "Sequence",
+    "section": "Geometric sequence",
+    "text": "Geometric sequence\nA geometric progression, or GP, is a sequence where each new term after the first is obtained by multiplying the preceding term by a constant \\(r\\), called the common ratio.\n\nFinding the nth term\nIf the first term of the sequence is \\(a\\) then the geometric progression is\n\n\\(a,\\ ar,\\ ar_2,\\ ar_3,\\ ...\\)\n\nwhere the n-th term is given by\n\\[T_n\\ =\\ ar^{n-1}\\]\n\n\nFinding the sum of the first n terms\nThe sum of the terms of a geometric progression gives a geometric series. If the starting value is \\(a\\) and the common ratio is \\(r\\) then the sum of the first \\(n\\) terms is\n\\[\n\\begin{aligned}\nS_n\\ &=\\ a\\bigg(\\ \\frac{r^n\\ -\\ 1}{r\\ -\\ 1}\\ \\bigg)\\ \\ \\ where\\ r\\ >\\ 1 \\\\\n\\\\\nS_n\\ &=\\ a\\bigg(\\ \\frac{1\\ -\\ r^n}{1\\ -\\ r}\\ \\bigg)\\ \\ \\ where\\ r\\ <\\ 1 \\\\\n\\end{aligned}\n\\]"
+  },
+  {
+    "objectID": "materials/01.html#exercises",
+    "href": "materials/01.html#exercises",
+    "title": "Sequence",
+    "section": "Exercises",
+    "text": "Exercises\n\nFind the sum of the first 23 terms of the AP \\(4, −3, −10,...\\)\nAn arithmetic series has first term 4 and common difference \\(\\frac{1}{2}\\). Find,\n\nthe sum of the first 20 terms,\nthe sum of the first 100 terms.\n\nFind the sum of the arithmetic series with first term 1, common difference 3, and last term 100.\nThe sum of the first 20 terms of an arithmetic series is identical to the sum of the first 22 terms. If the common difference is −2, find the first term.\nWrite down the first five terms of the geometric progression which has first term 1 and common ratio 12.\nFind the 10th and 20th terms of the GP with first term 3 and common ratio 2.\nFind the 7th term of the GP 2, −6, 18, …,\nFind the sum of the first five terms of the GP with first term 3 and common ratio 2.\nFind the sum of the first 20 terms of the GP with first term 3 and common ratio 1.5.\nThe sum of the first 3 terms of a geometric series is \\(\\frac{37}{8}\\). The sum of the first six terms is \\(\\frac{3367}{512}\\). Find the first term and common ratio.\nHow many terms in the GP 4, 3.6, 3.24, … are needed so that the sum exceeds 35?\n\nPast Semester Exam Questions\nMAC 2015\nThe 4th term of a geometric sequence is -96 and the 9th term is -3. Find:\na. the common ratio and the first term\nb. the sum of the first five terms.\nSEPT 2014\na. Given a sequence: 10, 30, 90, 270, 810, 2430….., find the sum of the first 10 terms\n\nThe fourth term of an arithmetic sequence is less than the fifth term by 3. The seventh term is three times the fifth term. Find\n\nthe common difference and the first term\n\nthe sum of the first 12 terms\n\n\nMAC 2014\na. Determine the number of terms for the following sequence:\n\n71, 65, 59, …, -13\n\n\nThe fifth term of a geometric sequence is 504 and the first term is 8064. Determine the common ratio and the sum of the first ten terms of the sequence. Assume that the common ratio is positive."
+  },
+  {
+    "objectID": "materials/02.html",
+    "href": "materials/02.html",
+    "title": "Simple Interest",
+    "section": "",
+    "text": "Ya Allah! Ampunilah dosa kami, dosa kedua ibubapa kami, dosa para pendidik dan murabbi yang telah membimbing kami ke jalan yang Kau redhai.\nAamiin Ya Rabbal’alamiin"
+  },
+  {
+    "objectID": "materials/02.html#background",
+    "href": "materials/02.html#background",
+    "title": "Simple Interest",
+    "section": "Background",
+    "text": "Background\nWhen we talk about interest, it can be in two scenarios whether you earned money from the certain amount of money you invested or you paid money for a certain amount of money you borrowed. Thus, interest can be defined as either money earned or paid from investment or loan amount made, respectively.\nSimple interest is the interest due at the end of a term. In simple interest transaction, only the principal (original value) will earn the interest. The principal can be the amount of money deposited in an account or the amount of money borrowed.\nThe amount of interest due at the end of a term depends on the principal, the length of the term and the rate of interest. The rate is usually given in percent and often as annual rate. The time is usually measured in years or a fraction of a year.\n\nSimple interest formula\nThe formula to find the interest \\((I)\\) due at interest rate \\(r\\%\\) for a principal \\(P\\) for a length of \\(t\\) years is\n\\[\nI\\ =\\ Prt\n\\]\nIn calculation, \\(r\\%\\) is converted to decimal number. For example, if the interest rate is 5%, then we will substitute \\(r\\) with \\(0.05\\).\n\n\nSimple amount formula\nThe future value \\((S)\\) is the total amount received or due at the end of the term. This is sometimes called as the simple amount.\nTo find the simple amount \\(S\\), the following formula can be used.\n$$\n\n\\[\\begin{aligned}\nS\\ &=\\ P\\ +\\ I \\\\\n&=\\ P\\ +\\ Prt \\\\\n\nThus,\\ \\\\\nS\\ &=\\ P(1\\ +\\ rt)\n\\end{aligned}\\]\n$$\nNote: The value \\(t\\) in both formula above must be in years. Hence, for any period given not in years, it must be converted into years. For example, if the period is in months, then \\(t\\ =\\ \\frac{number\\ of\\ month}{12}\\)."
+  },
+  {
+    "objectID": "materials/02.html#four-basics-concepts-of-interest",
+    "href": "materials/02.html#four-basics-concepts-of-interest",
+    "title": "Simple Interest",
+    "section": "Four Basics Concepts of Interest",
+    "text": "Four Basics Concepts of Interest\nSometimes the duration or term period is given in the form of the time between one date to another. For example, certain amount of money was invested in a mutual fund on \\(3^{rd}\\ January,\\ 2020\\) will mature on the \\(28^{th}\\ April,\\ 2020\\). Thus, there are ways to calculate the \\(t\\) value based on the for concepts mentioned below.\n\nExact time and approximate time\n\nWhen dates are given, the number of days between the two dates is calculated in two ways. Those two ways are exact time and approximate time.\n\nExact time, as the name suggested, is the exact number of days as in the calendar between two dates given.\nApproximate time is found by assuming each month is 30 days flat.\n\n\nOrdinary simple interest and exact simple interest\n\nThere are two ways in which interest is calculated, namely the exact simple interest and the ordinary simple interest.\n\nExact interest is calculated based on 365 days a year, and for a leap year, using 366 days.\nOrdinary interest is calculated using a 360 days a year. It is using an approximation that each month having 30 days. This is to simplify computing and of course it increases the amount of interest due to the lender.\n\n\nBanker’s Rule\nOf the four ways to compute simple interest, the most popular is that of ordinary interest for the exact number of days. Being the common practice of the bank, it is popularly known as the Banker’s Rule. Of the four methods, this yields the maximum interest in any transaction.\n\\[\nBanker's\\ Rule\\ =\\ \\frac{Exact\\ Time}{360}\n\\]\nNOTE: Unless otherwise stated, we will use the Banker’s Rule in computing interest problems from here onwards."
+  },
+  {
+    "objectID": "materials/02.html#exercises",
+    "href": "materials/02.html#exercises",
+    "title": "Simple Interest",
+    "section": "Exercises",
+    "text": "Exercises"
+  },
+  {
+    "objectID": "materials/02.html#acknowledgement",
+    "href": "materials/02.html#acknowledgement",
+    "title": "Simple Interest",
+    "section": "Acknowledgement",
+    "text": "Acknowledgement\n\nBusiness Mathematics Manual.\nWriters: Kor Liew Kee, Muhamad Fuad Abdullah, Rosidah Ahmad, Wan Hasni Sabariah Wan Hassan, Wan Siti Esah Che Hussain, Wan Zulkipli Wan Salleh\nEditor: Kamarul Ariffin Mansor\nPublisher: Department of Mathematical Sciences, UiTM Kedah"
+  },
+  {
+    "objectID": "materials/03.html#learning-outcomes",
+    "href": "materials/03.html#learning-outcomes",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this chapter, student should be able to\n\nexplain the meaning of a promissory note,\n\nlist the main features of a promissory note,\n\ncompute the face and maturity values of a promissory note,\n\nexplain the meaning of bank discount,\n\ncompute the bank discount and proceeds, and\n\ncompute simple interest rate that is equivalent to discount rate.\n\n\n\nW3.CSS\n\n\n\n\n\n\n\nLearning Slides\n\n\n\n            \n\n\nPrev Next\n\n\n1 2 3 4 5 6 7 8 9 10 11 12 13\n\n\n\n\n\nDownload Learning Slides"
+  },
+  {
+    "objectID": "materials/03.html#learning-videos",
+    "href": "materials/03.html#learning-videos",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Learning Videos",
+    "text": "Learning Videos\n\n\n\n\n\n\n\n\nVideo 1\nVideo 2\nVideo 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo 4\nVideo 5"
+  },
+  {
+    "objectID": "materials/03.html#promissory-note",
+    "href": "materials/03.html#promissory-note",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Promissory Note",
+    "text": "Promissory Note\n\nDefinition: A signed document containing a written promise to pay a sum of money at specified date with or without interest. There note can be with or without interest. In this course, the interest bearing note will be calculated as simple interest using Banker’s Rule.\n\n\n\n\nSource: https://en.m.wikipedia.org/wiki/promissory_note. A 1926 promissory note from the Imperial Bank of India\n\n\n\nIn China during the Han Dynasty promissory notes appeared in 118 BC and were made of leather.[14] The Romans may have used promissory notes in 57 AD as a durable lightweight substance as evidence of a promise in that time have been found in London … read more at wikipedia"
+  },
+  {
+    "objectID": "materials/03.html#how-does-it-work",
+    "href": "materials/03.html#how-does-it-work",
+    "title": "Bank Discount and Promissory Note",
+    "section": "How does it work?",
+    "text": "How does it work?\nConsider the following situation.\n\nMeet Chris. He is your loan officer. The bank where he works is willing to loan you money so you can purchase a building for your growing business. Of course, Chris won’t just hand you the RM500,000 in cash you need to purchase the building. That would be foolish, for how would Chris know that he would get that borrowed money back from you?\nWhat Chris does is to write up a promissory note for you. This note is a promise of payment. Once you sign this note, you agree to pay back the money along with any additional fees involved by a specific date.\n\n\nTerms\nThis promissory note that Chris has you sign is not just a sticky note saying that you will pay back the RM500,000 at some time in the future. This note goes into detail. It contains the terms or conditions that you will follow to pay back this large amount. It includes the interest rate that the bank charges you for borrowing money. This is how the bank makes money off of this transaction. It also includes the payment’s terms, such as when you are going to make payments and when the final payment will be made and the loan fully paid off.\nIn exchange for this loan, the bank also will keep the deed of ownership to the building until your loan is paid off. This is also specified in the promissory note. Once your loan is paid off, then the bank will give you the deed of ownership. But until then, the bank owns the building. This provides the bank with security in case you end up not paying them back.\nYou might see your promissory note written like this:\n\nAmount: RM500,000\n\nDate: Today\n\nInterest Rate: 5% annually\n\nPayment Amount: RM2,684.11 due the first of each month\n\nPayoff Date: 30 years from today\n\nThis promissory note is telling you that you have 30 years to pay off this loan. If you make a payment of RM2,684.11 every month for 30 years, you will have paid off your loan at the end of 30 years. This amount includes the annual interest rate of five percent."
+  },
+  {
+    "objectID": "materials/03.html#features-of-promissory-note",
+    "href": "materials/03.html#features-of-promissory-note",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Features of Promissory Note",
+    "text": "Features of Promissory Note\nWhen writing a promissory note, the following items has to be considered:\n\nMaker : The name of person that sign the note (debtor)\n\nPayee : The name of person that receive the note (creditor)\n\nFace Value : The amount stated on the note or the amount borrowed\n\nDate Issue : The date of the note is signed\n\nTime (Term) : The length of period (must have if maturity date not stated)\n\nInterest rate : the rate charge for interest bearing note (simple interest)\n\nMaturity Date : The date the debt must be paid (optional)\n\nMaturity Value : The amount has to be paid including interest (optional)\n\nAs illustration of the above features, see the picture below:\n\n\n\nSource: https://nazarsudhakar.blogspot.com/2014/02/promissory-note-details.html\n\n\nHow to find the maturity value for interest bearing note?\nIn most situation, for an interest bearing note, the maturity value is not stated on the note. For this situation, the maturity value can be calculated using the simple interest amount formula, i.e.,\n\\[\nS\\ =\\ P(1\\ +\\ rt)\n\\]\nNote: only simple interest using Banker’s Rule will be used in this lesson."
+  },
+  {
+    "objectID": "materials/03.html#bank-discount",
+    "href": "materials/03.html#bank-discount",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Bank Discount",
+    "text": "Bank Discount\nIt is a common practice by the bank to deduct charges from a loan in advance. This charges is called bank discount. Note that in bank discount it is different from the case of simple interest. In simple interest, the amount of maturity value is more than the amount borrowed. In addition, normally in the beginning you have an amount that eventually will be more after certain time period, such that the present value is lower than the future value. However, in bank discount it is the other way around. Thus, in bank discount, the amount borrowed is actually the maturity value, not the principal or the present value.\nConsider a scenario where you borrow RM10,000 for 6 months from a bank that charged you a bank discount at a rate of 5% per annum. In this case, 5% of RM10,000 is RM500. So, the bank will deduct RM500 from the amount of loan RM10,000 in advance. Hence, you will only received RM9,500 from the loan you made with the bank.\nThus,\n\nThe money that the bank deduct in advanced is called Bank Discount - D = RM500\n\nThe money left receives by the borrower is called Proceeds - Proceeds = RM9,500\n\nThe maturity value is the value of the money actually borrowed - S = RM10,000\n\nSo,\n\n\nMaturity value = Proceeds + Bank Discount\n\nTo calculate the Bank Discount and Proceeds, we will use the following formula:\n\\[\n\\begin{aligned}\nD\\ &=\\ Sdt \\\\\n\\\\\nwhere,\\ D\\ &=\\ Bank\\ discount \\\\\n        d\\ &=\\ discount\\ rate \\\\\n        t\\ &=\\ term\\ of\\ discount\\ in\\ years. \\\\\n\\end{aligned}\n\\]\nand,\n\\[\n\\begin{aligned}\nProceeds,\\ H\\ &=\\ Maturity\\ value\\ –\\ Bank\\ discount\\\\                              \n             H\\ &=\\ S\\ –\\ D\\\\\n             H\\ &=\\ S\\ –\\ Sdt\\\\\n             H\\ &=\\ S( 1 -  dt)\\\\\n\\end{aligned}\n\\]\nSometimes, bank charged for their service with simple interest rate in mind. So, they will find the equivalent discount (service charge) rate to the intended simple interest rate that they want to obtain. Below are the two formulas that can be used to calculate these rates.\n\\[\nr\\ =\\ \\frac{d}{1\\ -\\ dt}\\ \\ \\ \\ \\ \\ \\ \\ and\\ \\ \\ \\ \\ \\ \\ \\ d\\ =\\ \\frac{r}{1\\ +\\ rt}\n\\]"
+  },
+  {
+    "objectID": "materials/03.html#practice-questions",
+    "href": "materials/03.html#practice-questions",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Practice Questions",
+    "text": "Practice Questions\nQuestion 1\nFarid owned a note dated 9 Aug 2001 without interest for RM676. He discounted the note at 6% and received proceeds of RM670.37. When was the maturity date of the note if the note was discounted on 14 Sept 2001?\n\nAns: 3 Nov 2001\n\n\nQuestion 2\nAbu received a 180 day promissory note worth RM4500 at 8.5% simple interest on 14th August 1999 from Sahara. However, on 24th November 1999 Abu sold the note to a bank at the discount rate of 7.5%.\ni. Find the discount term.\nii. Find the proceeds.\niii. Find the equivalent simple interest rate that is charged by the bank.\n\nAnswers:\ni. 78 days\nii. RM4615.02\niii. 7.62%\n\n\nQuestion 3\nAnn received a 100 day promissory note with simple interest of 8%. The maturity date of the note was on 5th December 1997. On 1st October 1997, Ann discounted the note to a bank with a discount rate of 10% and received proceeds of RM8012. Find the face value of the note.\n\nAnswer: RM7981.94\n\n\nQuestion 4\nA promissory note dated 5th July 1998 was discounted 30 days before maturity at a discount rate of 6%. The proceeds obtained was RM2487.50.\ni. Find the maturity value of the note.\nii. If the note was kept for 10 days after 5th July 1998, when was the discount date?\niii. Find the term of the note.\niv. Find the face value of the note if the interest rate is 6.5%.\n\nAnswers:\ni. RM2500\nii. 15/7/98\niii. 40 days\niv. RM2482.07\n\n\nQuestion 5\nOn 16 March 2009, Samy received a 120-day promissory note with simple interest rate of 11% per annum. On 12 May 2009, he discounted the note at a discount rate of 10% and received proceeds of RM2,978.86. Find the:\ni. maturity date (14th July 2009)\nii. maturity value (RM3031.92)\niii. value of bank discount (RM53.06)\niv. face value. (RM2924.68)\n\nQuestion 6\nFahrin received a 100-day promissory note on 17th June 2008 with simple interest rate of 5% per annum. After 40 days, he discounted the note at a discount rate of 3% and received proceeds of RM12,188.75. Find:\ni. the maturity date. (25th September 2008)\nii. the maturity value. (RM12250)\niii. the face value. (RM12082.19)\niv. the amount of interest received by Fahrin. (RM106.56)\n\nQuestion 7\nA 5-month promissory note with an interest rate of 10% would mature on 25th September 2008 with a maturity value of RM4200. The note was discounted 2 months before the maturity date and the proceeds received was RM4151. Find:\ni. the face value. (RM4032)\nii. the discount amount charged. (RM49)\niii. the discount rate charged. (7%)\niv. the simple interest rate that is equivalent to the discount rate in (iii). (7.08%)\n\nQuestion 8\nAznil received a 150-day promissory note with a face value of RM10,000 dated 5 January 2007. The maturity value was RM10,375. He later discounted the note on 30 April 2007 at a discount rate of 7.6%. Find:\ni. the maturity date of the note. (4th June 2007)\nii. the interest rate of the note. (9%)\niii. the proceeds received. (RM10298.34)\n\nQuestion 9\nManja Enterprise received a 5-month promissory note valued at RM10000 with an interest rate of X%. The note matures on 6 October 2007 with a maturity value of RM 10237.50. On 11th August 2007 Manja Enterprise discounted the note at a bank at the rate of 7%. Find:\ni. the date of the note (6th May 2007) \nii. the interest rate X% (5.7%)\niii. the discount term (56 days)\niv. the proceeds received. (RM10126.03)\n\nQuestion 10\nZiman received a 100-day promissory note for RM5,000 dated 10th September 2005.The simple interest charged was 6.5%. He later discounted the note on 30th October 2005 and received proceeds of RM5030.19. Find:\ni. the maturity date of the note (19th December 2005)\nii. the maturity value of the note (RM5090.28)\niii. the discount rate. (8.50%)"
+  },
+  {
+    "objectID": "materials/03.html#acknowledgments",
+    "href": "materials/03.html#acknowledgments",
+    "title": "Bank Discount and Promissory Note",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nSome of the notes above are taken from online course Business 110: Math Class from Study.com\nPromissory Note: Terms & Calculations. (2015, January 3). Retrieved from https://study.com/academy/lesson/promissory-note-terms-calculations.html.\nA 1926 promissory note from the Imperial Bank of India, Rangoon, Burma for 20,000 rupees plus interest. Retrieved from https://en.m.wikipedia.org/wiki/promissory_note.\nNews-and-Views Promissory Note ; The Detail. Retrieved from https://nazarsudhakar.blogspot.com/2014/02/promissory-note-details.html."
+  },
+  {
+    "objectID": "materials/04.html#acknowledgements",
+    "href": "materials/04.html#acknowledgements",
+    "title": "Compound Interest",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nChan, J. (2020). Time Value of Money (TVM). Retrieved from https://www.investopedia.com/terms/t/timevalueofmoney.asp on March 8, 2020."
+  },
+  {
+    "objectID": "materials/05.html#learning-outcomes",
+    "href": "materials/05.html#learning-outcomes",
+    "title": "Annuity",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this chapter, student should be able to:\n\nfind the future value of annuity,\n\nfind the present value of annuity,\n\nsolve for annuity payment, R, the number of payments, n, and the interest rate, I, and\n\nidentify the problems where the present value and the future value of the annuity formula can be appropriately applied.\n\n\n\nW3.CSS\n\n\n\n\n\n\n\nLearning Slides\n\n\n\n             \n\n\nPrev Next\n\n\n1 2 3 4 5 6 7 8 9 10 11 12 13 14\n\n\n\n\n\nDownload Learning Slides"
+  },
+  {
+    "objectID": "materials/05.html#introduction",
+    "href": "materials/05.html#introduction",
+    "title": "Annuity",
+    "section": "Introduction",
+    "text": "Introduction\nAn annuity is a sequence of payments made at regular time intervals. The time period in which these payments are made is called the term of the annuity while payment period is interval between annuity payments.\nAn annuity in which the payments are made at the end of each payment period is called an ordinary annuity An annuity in which the payment period coincides wit the interest compounding period is called a simple annuity.\nAnnuities considered here have terms given by fixed time intervals, periodic payments equal in size, payments made at the end of the payment periods, and payment periods coincide with the interest compounding period.\nExample of annuity includes house rents, mortgage payments, instalment payments on automobiles, and interest payments on money invested."
+  },
+  {
+    "objectID": "materials/05.html#future-value-of-an-annuity",
+    "href": "materials/05.html#future-value-of-an-annuity",
+    "title": "Annuity",
+    "section": "Future Value of an Annuity",
+    "text": "Future Value of an Annuity\nThe future value \\(S\\) of an annuity of \\(n\\) payments of \\(R\\) ringgits each, paid at the end of each investment period into an account that earns interest at the rate of \\(i\\) per period, is given by\n\\[\nS\\ =\\ R\\bigg[\\frac{(1\\ +\\ i)^n\\ -\\ 1}{i}\\bigg]  \n\\]\nThen, to find the amount of interest paid or earned can be found by subtracting the total amount paid from the future value, i.e.,\n\\[\nI\\ =\\ S\\ -\\ nR  \n\\]"
+  },
+  {
+    "objectID": "materials/05.html#present-value-of-an-annuity",
+    "href": "materials/05.html#present-value-of-an-annuity",
+    "title": "Annuity",
+    "section": "Present Value of an Annuity",
+    "text": "Present Value of an Annuity\nThe present value \\(P\\) of an annuity of \\(n\\) payments of \\(R\\) ringgits each, paid at the end of each investment period into an account that earns interest at the rate of \\(i\\) per period, is\n\\[\nA\\ =\\ R\\bigg[\\frac{1\\ -\\ (1\\ +\\ i)^{-n}}{i}\\bigg]  \n\\]\nThen, to find the amount of interest paid or earned can be found by subtracting the present value from the total amount paid, i.e.,\n\\[\nI\\ =\\ nR\\ -\\ A  \n\\]"
+  },
+  {
+    "objectID": "materials/05.html#application-of-annuity",
+    "href": "materials/05.html#application-of-annuity",
+    "title": "Annuity",
+    "section": "Application of Annuity",
+    "text": "Application of Annuity\nThe application of annuity include the concept of taking a loan from a financial institution, purchasing item through instalment, etc.\n\nConsider a scenario where you want to buy a house worth RM250,000 cash price from a house developer. Since you don’t have that much money, a bank offers a loan, 90% of the cash price at certain interest rate paid through equal payment for certain duration of time. Thus, in this case you will have to pay the developer 10% of the cash price as down payment, while the balance 90% will be paid by the bank to the developer for the remaining amount. All you need to do now is to repay the loan to the bank by instalment.\n\nHere we have,\nDown Payment (DP) = % x Cash Price (CP) = 10% x 250,000 = 25,000 Balance (A) = CP – DP = 250,000 – 25,000 = RM 225,000 <– This is the amount that you have to loan from a bank\nTwo (2) important comcepts to remember:\n\nWhen you have late payments –> use formula \\(S\\) (keywords: failed to pay or arrears).\n\nWhen you want to pay early –> use formula \\(A\\) (keywords: settle the debt/loan immediately)."
+  },
+  {
+    "objectID": "materials/06.html#acknowledgments",
+    "href": "materials/06.html#acknowledgments",
+    "title": "Trade and Cash Discount",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nSome of the notes above are taken from online course Business 110: Math Class from Study.com\nCredit Terms: Due Date, Invoice Date & EOM. (2014, December 3). Retrieved from https://study.com/academy/lesson/credit-terms-due-date-invoice-date-eom.html."
+  },
+  {
+    "objectID": "materials/07.html#learning-videos",
+    "href": "materials/07.html#learning-videos",
+    "title": "Mathematics of Retailing",
+    "section": "Learning Videos",
+    "text": "Learning Videos\n\n\n\n\n\n\n\nVideo 1\nVideo 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo 3\nVideo 4\nVideo 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo 6\nVideo 7"
+  },
+  {
+    "objectID": "materials/07.html#markup",
+    "href": "materials/07.html#markup",
+    "title": "Mathematics of Retailing",
+    "section": "Markup",
+    "text": "Markup\nTo calculate her markup, Shalon needs to take into consideration things like the cost of her time spent designing the shirts, the cost to manufacture the shirt, and the cost of keeping the store open. After all these costs are calculated, then she needs to figure out how much more she needs to add so she can make a good living from her t-shirt business.\nSay, for instance, after considering all the factors we mentioned, that the total cost to make each shirt for Shalon is RM10. Of course, Shalon wants to make a profit from selling each shirt, so she marks up her shirt price to RM30. How much of a markup is this? Let’s calculate it. RM30 is RM20 more than RM10. So dividing RM20 by RM10, we get 20/10 = 2. Changing this into a percentage, we see that Shalon has a markup of 200%.\nShalon wants to make sure she is competitive with other t-shirt businesses in town, so she does some investigating of her own. She visits another shop and she finds that this shop has a markup of 100%. If the manufacturing cost of the product is RM10, how much is this shop selling the shirts for?\nWe can calculate this by multiplying the RM10 with the 100% to find how much our increase is. Changing the 100% to a decimal, we get 1 for our decimal. Multiplying the 10 with the 1, we find that this shop has increased their prices by RM10 per shirt. So the shirts here cost RM10 + RM10 = RM20.\nHmm, Shalon is thinking that her prices might be a bit steep for the customers in the neighborhood based on her investigations."
+  },
+  {
+    "objectID": "materials/07.html#markdown",
+    "href": "materials/07.html#markdown",
+    "title": "Mathematics of Retailing",
+    "section": "Markdown",
+    "text": "Markdown\nNow she is considering how much to mark down her prices. Her starting price is RM30. If she wants to decrease her prices to RM20, how much of a markdown does she need? To calculate this, we first see how much of a difference we have. We have a difference of RM30 - RM20 = RM10. So, the markdown is RM10/RM30 = 0.3333 or roughly 33%.\nShalon can do this two ways. She can either offer a 33% off coupon to all her customers or she can decrease her prices without offering coupons. Even if she sells a shirt for RM20, she is still making profit."
+  },
+  {
+    "objectID": "materials/07.html#acknowledgments",
+    "href": "materials/07.html#acknowledgments",
+    "title": "Mathematics of Retailing",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nSome of the notes above are taken from online course Business 110: Math Class from Study.com\nMarkup & Markdown: Calculation & Examples. (2014, December 10). Retrieved from https://study.com/academy/lesson/markup-markdown-calculation-examples.html."
+  },
+  {
+    "objectID": "materials/08.html",
+    "href": "materials/08.html",
+    "title": "Instalment Purchase",
+    "section": "",
+    "text": "Ya Allah! Kami dengan kerendahan hati bermohon ke hadrat-Mu, berilah kekuatan, taufik dan hidayah kepada kami supaya kami dapat memperbaiki diri kami, yambahkanlah Ya Allah kepada kami ilmu, iman dan amal.\nAamiin Ya Rabbal’alamiin"
+  },
+  {
+    "objectID": "materials/08.html#acknowledgments",
+    "href": "materials/08.html#acknowledgments",
+    "title": "Instalment Purchase",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nSome of the notes above are taken from online course Business 110: Math Class from Study.com\nInstallment Purchases: Payment & Terms. (2014, December 13). Retrieved from https://study.com/academy/lesson/installment-purchases-payment-terms.html."
+  },
+  {
+    "objectID": "materials/09.html",
+    "href": "materials/09.html",
+    "title": "Depreciation",
+    "section": "",
+    "text": "Ya Allah! Semoga kami berusaha sedaya mampu menambah amal ibadah dengan solat sunat, membaca Al Quran, bersedekah dan sebagainya.\nAAmiin Ya Rabbal’alamin"
+  },
+  {
+    "objectID": "materials/09.html#introduction",
+    "href": "materials/09.html#introduction",
+    "title": "Depreciation",
+    "section": "Introduction",
+    "text": "Introduction\nIn this chapter, student will be introduced to the fundamental concept of depreciation. It started with the answer to what is depreciation is? Some important terms with its meaning will be explain to the students. Finally, the cahpter will discuss on the two methods of depreciation calculation that will be covered in this chapter. Examples with solution will be provided to guide the students understanding on this topic."
+  },
+  {
+    "objectID": "materials/09.html#what-is-depreciation",
+    "href": "materials/09.html#what-is-depreciation",
+    "title": "Depreciation",
+    "section": "What is depreciation?",
+    "text": "What is depreciation?\n\nDefinition:\nDepreciation is defined as the loss in value of capital assets such as vehicles, machinery tools and equipment due to usage over time.\n\nThus, in general the term depreciation refers to fall in the value or utility of fixed assets which are used in operations over the definite period of years. In other words, depreciation is the process of spreading the cost of fixed assets over the number of years during which benefit of the asset is received.\nThe fall in value or utility of fixed assets due to so many causes like wear and tear, decay, effluxion of time or obsolescence, replacement, breakdown, fall in market value etc.\nThe following factors are to be considered while charging the amount of depreciation:\n1. The original cost of the asset.\n2. The useful life of the asset.\n3. Estimated scrap or residual value of the asset at the end of its life.\n4. Selecting an appropriate method of depreciation.\nSome of the important terms in depreciation are:\nOriginal cost (C) : The cost paid for the item including any sales tax, transportation charges, installation charges and other cost that incurred.\nSalvage cost (S) : Cost at the end of its lifetime. It is also called scrap-value or trade-in-value or junkyard.\nUseful life (n) : life expectancy or the number of years the asset is expected to last. Sometimes called as economic life.\nBook value (BV) : The difference between the original cost and the accumulated depreciation to that date. May also refer as the market value or market price of an asset at certain years.\nTotal depreciation : difference between original cost and the salvage value.\nAnnual depreciation : the amount of depreciation in a year.\nAccumulated depreciation : the total depreciation to date."
+  },
+  {
+    "objectID": "materials/09.html#methods-of-depreciation",
+    "href": "materials/09.html#methods-of-depreciation",
+    "title": "Depreciation",
+    "section": "Methods of Depreciation",
+    "text": "Methods of Depreciation\nIn depreciation there are several methods that can be used. However, in this course, we are only cover two methods which are,\n1. Straight Line Method\n2. Declining Balance Method\n\nStraight Line Method\nThis method is also termed as Constant Charge Method. Under this method, depreciation is charged for every year will be the constant amount throughout the life of the asset.\nAccordingly depreciation is calculated by deducting the scrap value from the original cost of an asset and the balance is divided by the number of years estimated as the life of the asset.\n\\[\n\\begin{aligned}\nAnnual\\ Depreciation,\\ AD &=\\ \\frac{Total\\ Cost(C) - Salvage\\ Value(S)}{Useful\\ Life(n)}\\\\\n\\\\\nwhere\\ ,\\ n\\ &=\\ useful\\ life\\\\\nC\\ &=\\ Cost\\\\\nS\\ &=\\ Salvage\\ Value\n\\end{aligned}\n\\]\nExample\nConsider a piece of equipment that costs RM25,000 with an estimated useful life of 6 years and a RM6,250 salvage value. The depreciation expense per year for this equipment would be as follows:\n\\[\n\\begin{aligned}\nC &= 25,000 \\\\\nS &= 6,250 \\\\\nn &= 6 \\\\\n\\\\\nAD &= \\frac{25,000 - 6,250}{6} \\\\\n&= 3,125\n\\end{aligned}\n\\]\nThe following table illustrate the depreciation process using straight line method:\n\n\n\n\n\n\n\n\n\n\nYear (\\(n\\))\nOpening Book Value\nAnnual Depreciation (\\(AD\\))\nAccumulated Depreciation (\\(AcD_n\\))\nEnding Book Value (\\(BV_n\\))\n\n\n\n\n0\n-\n-\n-\n25,000\n\n\n1\n25,000\n3,125\n3,125\n21,875\n\n\n2\n21,875\n3,125\n6,250\n18,750\n\n\n3\n18,750\n3,125\n9,375\n15,625\n\n\n4\n15,625\n3,125\n12,500\n12,500\n\n\n5\n12,500\n3,125\n15,625\n9,375\n\n\n6\n9,375\n3,125\n18,750\n6,250\n\n\n\nSome of the important formula that comes with this method are;\n\\[\n\\begin{aligned}\nAnnual\\ Rate\\ of\\ Depreciation &= \\frac{Annual\\ Depreciation}{Total\\ Depreciation} * 100\\% \\\\\n&= \\frac{AD}{TD} * 100\\%\n\\end{aligned}\n\\]\nor, can also use the following formula,\n\\[\n\\begin{aligned}\nAnnual\\ Rate\\ of\\ Depreciation &= \\frac{1}{Useful\\ Life} * 100\\% \\\\\n&= \\frac{1}{n} * 100\\%\n\\end{aligned}\n\\]\nTo find the Book Value at certain period, BV_n\n\\[\n\\begin{aligned}\nBook\\ Value(BV_n) &= Cost\\ -\\ Accumulated\\ Depreciation\\\\\n&= C\\ -\\ nAD\\\\\n\\end{aligned}\n\\]\n\n\nDeclining Balance Method\nThe declining balance method produces the highest depreciation charges in the earlier years of the asset. The book value of the asset remaining at the end of the depreciation year becomes the scrap value.\n\n\n\nTable on Declining Balance Illustrated retrieved from https://corporatefinanceinstitute.com/\n\n\n\\[\n\\begin{align*}\nRate\\ of\\ Depreciation(r)\\ &=\\ 1\\ -\\ \\sqrt[3]{\\frac{S}{C}}\\ \\ \\ \\ \\ or\\ \\ \\ \\ \\ 1\\ -\\ \\sqrt[n]{\\frac{BV_n}{C}}\\\\\n\\\\\nwhere\\ ,\\ n\\ &=\\ useful\\ life\\\\\nC\\ &=\\ Cost\\\\\nS\\ &=\\ Salvage\\ Value\n\\end{align*}\n\\]\nThe Book Value of any years is calculated by,\n\\[\nBook\\ Value(BV_n)\\ =\\ C\\ -\\ C(1\\ -\\ r)^n\\\\\n\\]\nThe accumulated depreciation for certain year can be calculated as,\n\\[\n\\begin{aligned}\nAccumulated\\ Depreciation_n(AcD_n)\\ &=\\ Cost\\ -\\ Book\\ Value\\\\\n&=\\ C\\ -\\ C(1\\ -\\ r)^n\n\\end{aligned}\n\\]"
+  },
+  {
+    "objectID": "materials/09.html#practice-problems",
+    "href": "materials/09.html#practice-problems",
+    "title": "Depreciation",
+    "section": "Practice Problems",
+    "text": "Practice Problems"
+  },
+  {
+    "objectID": "materials/09.html#acknowledgements",
+    "href": "materials/09.html#acknowledgements",
+    "title": "Depreciation",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nFigure from Corporate Finance Institute. Retrived from https://corporatefinanceinstitute.com/resources/knowledge/accounting/types-depreciation-methods/"
+  },
+  {
+    "objectID": "materials/10.html#introduction",
+    "href": "materials/10.html#introduction",
+    "title": "Income Tax",
+    "section": "Introduction",
+    "text": "Introduction\nThis chapter deals with the concepts of income tax. However, for this course we will only cover on the topic of personal income tax. By the end of this chapter, student should be able to:\n\nidentify allowance deductions for income tax purposes,\n\ndetermine chargeable income,\n\nuse the tax schedule to determine the tax amount,\n\nrecognize that tax rebate is allowed for a chargeable income of less than RM35,000 and that zakat is an allowable rebate, and\n\ncalculate tax payable."
+  },
+  {
+    "objectID": "materials/10.html#type-of-assessment",
+    "href": "materials/10.html#type-of-assessment",
+    "title": "Income Tax",
+    "section": "Type of Assessment",
+    "text": "Type of Assessment\n\nIncome tax is the normal tax which is paid on your taxable (chargeable) income.\n\nTwo types of Assessment:\n\nSeparate Assessment, such that:\n\nTax is calculated individually. For instance : bachelor, husband only, wife only.\n\nHusband the only one working (wife get relief and rebate).\n\nChildren are assessed under husband unless it is requested by wife.\n\nJoint Assessment, such that:\n\nTax is calculated together. For instance : husband + wife.\n\nFor Parents Medical Expenses, only husband part is calculated."
+  },
+  {
+    "objectID": "materials/10.html#how-to-calculate-tax-payable-amount",
+    "href": "materials/10.html#how-to-calculate-tax-payable-amount",
+    "title": "Income Tax",
+    "section": "How to calculate tax payable amount?",
+    "text": "How to calculate tax payable amount?\nTo calculate tax payable amount, there are 5 steps:\n\n1. Aggregate Income\n\nAnnual Income (the salary for 12 months)\n\nFor joint assessment, the aggregate income must be the combination income of husband and wife.\n\n\n\n2. Donation\n\n\n\n\n\n\n\nContribution\nAmount\n\n\n\n\nGift of money to the Government, State Government or Local Authorities.\nNIL\n\n\nGift of money to Approved Institutions or Organisations.\n(Amount is limited to 7% of aggregate income)\n\n\nGift of money or cost of contribution in kind for any Approved Sports Activity or Sports Body.\n(Amount is limited to 7% of aggregate income)\n\n\nGift of money or cost of contribution in kind for any Approved Project of National Interest Approved by Ministry of Finance.\n(Amount is limited to 7% of aggregate income)\n\n\nGift of artifacts, manuscripts or paintings.\nNIL\n\n\nGift of money for provision of Library Facilities or to Libraries\nNIL\n\n\n\n\n\n3. Reliefs\n\n\n\n\nIndividual Tax Reliefs 2019\n\n\n\n\n\n4. Taxable Income (Chargeable Income)\n\n\n\n\n\n5. Rebates\n\n\n\nNo.\nTax Rebates\nAmount (RM)\n\n\n\n\n1.\nHusband (Taxable income below RM35,000)\n400\n\n\n2.\nWife (Taxable income below RM35,000)\n400\n\n\n3.\nZakat\nNo Limit"
+  },
+  {
+    "objectID": "materials/10.html#solved-examples",
+    "href": "materials/10.html#solved-examples",
+    "title": "Income Tax",
+    "section": "Solved Examples",
+    "text": "Solved Examples\n\nTax assessment for individual who is single\n\n\nTax assessment for individual who is married\nSeparate Assessment\nJoint Assessment"
+  }
+]

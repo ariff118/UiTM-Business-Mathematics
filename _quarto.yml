@@ -1,0 +1,78 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!materials/webnotes/"
+
+website:
+  title: "Business Mathematics for UiTM"
+  page-footer:
+    left: "This page was built with ❤️ and [Quarto](https://quarto.org/) by [KA Mansor](https://ariff118.github.io/kamansor.github.io)."
+  navbar:
+    background: "#4d336b"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Web Notes
+        menu: 
+          - href: materials/01.qmd
+            text: "Sequence"
+          - href: materials/02.qmd
+            text: "Simple Interest"
+          - href: materials/03.qmd
+            text: "Bank Discount & Promissory Notes"
+          - href: materials/04.qmd
+            text: "Compound Interest"
+          - href: materials/05.qmd
+            text: "Annuity"
+          - href: materials/06.qmd
+            text: "Trade & Cash Discount"
+          - href: materials/07.qmd
+            text: "Mathematics of Retailing"
+          - href: materials/08.qmd
+            text: "Installment Purchase"
+          - href: materials/09.qmd
+            text: "Depreciation"
+          - href: materials/10.qmd
+            text: "Income Tax (MAT402 ONLY)"
+    right: 
+      - href: "https://quarto.org/"
+        text: "Quarto Docs"
+      - icon: github
+        href:  https://github.com/ariff118/
+      - icon: twitter
+        href: https://twitter.com/quarto_pub
+  sidebar: 
+    style: docked
+    contents: 
+      - section: "Webnotes"
+        contents: 
+          - href: materials/01.qmd
+            text: "Sequence"
+          - href: materials/02.qmd
+            text: "Simple Interest"
+          - href: materials/03.qmd
+            text: "Bank Discount & Promissory Notes"
+          - href: materials/04.qmd
+            text: "Compound Interest"
+          - href: materials/05.qmd
+            text: "Annuity"
+          - href: materials/06.qmd
+            text: "Trade & Cash Discount"
+          - href: materials/07.qmd
+            text: "Mathematics of Retailing"
+          - href: materials/08.qmd
+            text: "Installment Purchase"
+          - href: materials/09.qmd
+            text: "Depreciation"
+          - href: materials/10.qmd
+            text: "Income Tax (MAT402 ONLY)"
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,199 @@
+---
+title: "Income Tax"
+description: |
+  Reminder: This topic is only covered in MAT402.
+format: html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+>   
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+  .mySlides {display:none}
+</style>
+<body>
+  
+<div class="w3-container">
+  <h2>Learning Slides</h2>
+</div>
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="images\income\Slide1.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide2.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide3.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide4.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide5.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide6.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide7.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide8.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide9.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide10.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide11.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide12.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide13.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide14.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide15.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide16.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide17.png" style="width:100%">
+  <img class="mySlides" src="images\income\Slide18.png" style="width:100%">
+</div>
+<div class="w3-center">
+  <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button>
+  <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next</button>
+</div>
+<div class="w3-center">
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+  <button class="w3-button demo" onclick="currentDiv(3)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(4)">4</button>
+  <button class="w3-button demo" onclick="currentDiv(5)">5</button> 
+  <button class="w3-button demo" onclick="currentDiv(6)">6</button> 
+  <button class="w3-button demo" onclick="currentDiv(7)">7</button>
+  <button class="w3-button demo" onclick="currentDiv(8)">8</button>
+  <button class="w3-button demo" onclick="currentDiv(9)">9</button> 
+  <button class="w3-button demo" onclick="currentDiv(10)">10</button> 
+  <button class="w3-button demo" onclick="currentDiv(11)">11</button>
+  <button class="w3-button demo" onclick="currentDiv(12)">12</button>
+  <button class="w3-button demo" onclick="currentDiv(13)">13</button>
+  <button class="w3-button demo" onclick="currentDiv(14)">14</button>
+  <button class="w3-button demo" onclick="currentDiv(15)">15</button> 
+  <button class="w3-button demo" onclick="currentDiv(16)">16</button> 
+  <button class="w3-button demo" onclick="currentDiv(17)">17</button>
+  <button class="w3-button demo" onclick="currentDiv(18)">18</button>
+</div>
+  
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+  
+</body>
+</html>  
+
+<aside>  
+[Download Learning Slides](files/slides/income.pdf)
+</aside>  
+
+
+## Introduction  
+
+This chapter deals with the concepts of income tax. However, for this course we will only cover on the topic of personal income tax. By the end of this chapter, student should be able to:  
+
+1. identify allowance deductions for income tax purposes,  
+2. determine chargeable income,  
+3. use the tax schedule to determine the tax amount,  
+4. recognize that tax rebate is allowed for a chargeable income of less than RM35,000 and that zakat is an allowable rebate, and  
+5. calculate tax payable.  
+
+## Type of Assessment  
+
+> Income tax is the normal tax which is paid on your taxable (chargeable) income.  
+
+**Two types of Assessment:**  
+
+1. Separate Assessment, such that:  
+    i. Tax is calculated individually. For instance : bachelor, husband only, wife only.  
+    ii. Husband the only one working (wife get relief and rebate).  
+    iii. Children are assessed under husband unless it is requested by wife.  
+  
+2. Joint Assessment, such that:  
+    i. Tax is calculated together. For instance : husband + wife.  
+    ii. For Parents Medical Expenses, only husband part is calculated.  
+  
+## How to calculate tax payable amount?  
+
+To calculate tax payable amount, there are 5 steps:  
+
+### 1. *Aggregate Income*  
+
+  - Annual Income (the salary for 12 months)  
+  - For joint assessment, the aggregate income must be the combination income of husband and wife.  
+  
+### 2. *Donation*  
+
+  | Contribution | Amount |  
+  |:-------------|:------:|  
+  | Gift of money to the Government, State Government or Local Authorities. | NIL |  
+  | Gift of money to Approved Institutions or Organisations. | (Amount is limited to 7% of aggregate income)  |  
+  | Gift of money or cost of contribution in kind for any Approved Sports Activity or Sports Body. | (Amount is limited to 7% of aggregate income) |  
+  | Gift of money or cost of contribution in kind for any Approved Project of National Interest Approved by Ministry of Finance. | (Amount is limited to 7% of aggregate income) |  
+  | Gift of artifacts, manuscripts or paintings. | NIL |  
+  | Gift of money for provision of Library Facilities or to Libraries | NIL |  
+  
+### 3. *Reliefs*  
+
+<center style="max-width:700px">
+![Individual Tax Reliefs 2019](files/notes/reliefs_2019.png)  
+</center>  
+
+### 4. *Taxable Income (Chargeable Income)*  
+
+<center style="max-width:700px">
+![](files/notes/tax_schedule_2018_2019.png)
+</center>  
+
+
+### 5. *Rebates*  
+
+  | No. | Tax Rebates | Amount (RM) |  
+  |:---:|:------------|:-----------:|  
+  |1.|Husband (Taxable income below RM35,000)|400|  
+  |2.|Wife (Taxable income below RM35,000)|400|  
+  |3.|Zakat|No Limit|  
+  
+## Solved Examples  
+
+### Tax assessment for individual who is single  
+
+
+
+### Tax assessment for individual who is married  
+
+**Separate Assessment**  
+
+
+
+**Joint Assessment**  
+
+
+
+
+
+  
+
+
+
