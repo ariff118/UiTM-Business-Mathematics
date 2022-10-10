@@ -18,7 +18,28 @@
     "href": "index.html#support-materials",
     "title": "Business Mathematics for UiTM",
     "section": "Support Materials",
-    "text": "Support Materials\n\n\n\nPast Semester Exam Papers\nAnswer Scheme\n\n\n\n\nJune 2019\nAnswer Scheme June 2019\n\n\nDec 2018\nAnswer Scheme Dec 2018\n\n\nJan 2018\nAnswer Scheme Jan 2018\n\n\n\nPast Test Paper With Answers\nTest 2 Dec 2019\nTest 1 Nov 2019\nWorkshops Questions With Answers\nNov 2019 Session 1 Answers\nNov 2019 Session 2 Answers"
+    "text": "Support Materials\n\n\n\n\n\nPast Test Paper With Answers\nTest 2 Dec 2019\nTest 1 Nov 2019\nWorkshops Questions With Answers\nNov 2019 Session 1 Answers\nNov 2019 Session 2 Answers"
+  },
+  {
+    "objectID": "materials/00.html",
+    "href": "materials/00.html",
+    "title": "Review of Algebra",
+    "section": "",
+    "text": "Definition\n\n\n\nA fraction is a numerical value that can be described as one value \\(a\\) divided by another value \\(b\\) such that \\(a\\) and \\(b\\) are both integer and \\(b\\ne0\\).\n\\[\n\\frac{a}{b} \\ and\\  b\\ne0 \\\\\n\\frac{Numerator}{Denominator}\n\\]\n\n\nThe denominator indicate the number of parts being split. The numerator shows how many parts are counted. For instance, a fraction \\(\\frac{5}{8}\\) shows that the whole was split into 8 parts, and 5 parts are counted for.\n\nA mixed number is a number that combined a whole number and a fraction. Foe example, \\(5\\frac{2}{3}\\).\n\nA proper fraction is a number such that the numerator is less than the denominator. For example, \\(\\frac{3}{7}\\)\n\nAn improper fraction is a number such that the numerator is greater than the denominator. For example, \\(\\frac{9}{5}\\)"
+  },
+  {
+    "objectID": "materials/00.html#decimals",
+    "href": "materials/00.html#decimals",
+    "title": "Review of Algebra",
+    "section": "Decimals\n",
+    "text": "Decimals\n\n\n\n\n\n\n\nDefinition\n\n\n\nA decimal is a fraction written in a special form. A decimal is a number that consists of a whole and a fractional part. Decimals are the numbers, which consist of two parts namely, a whole number part and a fractional part separated by a decimal point. The word “Decimal” really means “based on 10” (From Latin decima: a tenth part). Thus, a decimal is a number expressed using a system of counting based on the number ten: Three-fifths expressed as a decimal is 0.6.\n\\[\n\\frac{3}{5}\\ =\\ \\frac{6}{10}\\ =\\ 0.6\n\\]\n\n\nTo change from a fraction to a decimal value, just simply make a long division the numerator value to the denominator value.\n\nTo change the decimal value to fraction, just moves the decimal points to the right to make it a whoe number and divide by a numerator 10 to the power of number of digits moves to the right. For example, \\(0.25\\ =\\ \\frac{25}{100}\\ =\\ \\frac{1}{4}\\), after simplification."
+  },
+  {
+    "objectID": "materials/00.html#percents",
+    "href": "materials/00.html#percents",
+    "title": "Review of Algebra",
+    "section": "Percents\n",
+    "text": "Percents\n\n\n\n\n\n\n\nDefinition\n\n\n\nPercentages are expressed as the number of parts in every 100 such that it is a fraction with denominator value of 100. In other words, a percentage is a number or ratio as a fraction of 100. It is normally written with a symbol “%”.\n\n\nTo change a fraction or decimal to a percent, simply multiply the number with 100%. For example, \\(0.235\\ \\times\\ 100\\%\\ =\\ 23.5%\\)"
   },
   {
     "objectID": "materials/01.html",

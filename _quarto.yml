@@ -15,6 +15,8 @@ website:
         text: Home
       - text: Web Notes
         menu: 
+          - href: materials/00.qmd
+            text: "Review on Algebra"
           - href: materials/01.qmd
             text: "1. Sequence"
           - href: materials/02.qmd
@@ -49,6 +51,8 @@ website:
     contents: 
       - section: "Webnotes"
         contents: 
+          - href: materials/00.qmd
+            text: "Review on Algebra"
           - href: materials/01.qmd
             text: "1. Sequence"
           - href: materials/02.qmd

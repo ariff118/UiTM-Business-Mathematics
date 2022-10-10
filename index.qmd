@@ -127,11 +127,11 @@ This module does not have other references
 
 ## Support Materials
 
-| Past Semester Exam Papers | Answer Scheme |  
-|:-------------------------:|:-------------:|  
-| [June 2019](files/support document/mat112/MAT112 June 2019.PDF) | [Answer Scheme June 2019](files/support document/mat112/MAT112 SKEMA JUNE 2019.pdf) |  
-| [Dec 2018](files/support document/mat112/MAT112 Dec 2018.PDF) | [Answer Scheme Dec 2018](files/support document/mat112/MAT112 SKEMA DEC 2018.pdf) |  
-| [Jan 2018](files/support document/mat112/MAT112 Jan 2018.PDF) | [Answer Scheme Jan 2018](files/support document/mat112/MAT112 SKEMA JAN 2018.pdf) |  
+<!-- | Past Semester Exam Papers | Answer Scheme |   -->
+<!-- |:-------------------------:|:-------------:|   -->
+<!-- | [June 2019](files/support document/mat112/MAT112 June 2019.PDF) | [Answer Scheme June 2019](files/support document/mat112/MAT112 SKEMA JUNE 2019.pdf) |   -->
+<!-- | [Dec 2018](files/support document/mat112/MAT112 Dec 2018.PDF) | [Answer Scheme Dec 2018](files/support document/mat112/MAT112 SKEMA DEC 2018.pdf) |   -->
+<!-- | [Jan 2018](files/support document/mat112/MAT112 Jan 2018.PDF) | [Answer Scheme Jan 2018](files/support document/mat112/MAT112 SKEMA JAN 2018.pdf) |   -->
 
 
 **Past Test Paper With Answers**  
