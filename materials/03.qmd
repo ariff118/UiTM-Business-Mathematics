@@ -103,13 +103,23 @@ function showDivs(n) {
 
 ## Learning Videos  
 
-| Video 1 | Video 2 | Video 3 |  
-|:-------:|:-------:|:-------:|  
-|<iframe width="150" height="150" src="https://www.youtube.com/embed/c8wewasHiXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/KPM8N4iTRpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/0WZL3563U3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|  
+<iframe width="500" height="350" src="https://www.youtube.com/embed/c8wewasHiXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-| Video 4 | Video 5 |  
-|:-------:|:-------:|  
-|<iframe width="150" height="150" src="https://www.youtube.com/embed/LqpeAW9mDRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/iplD5QuXbSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|  
+<iframe width="500" height="350" src="https://www.youtube.com/embed/KPM8N4iTRpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="500" height="350" src="https://www.youtube.com/embed/0WZL3563U3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="500" height="350" src="https://www.youtube.com/embed/LqpeAW9mDRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="500" height="350" src="https://www.youtube.com/embed/iplD5QuXbSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- | Video 1 | Video 2 | Video 3 |   -->
+<!-- |:-------:|:-------:|:-------:|   -->
+<!-- |<iframe width="150" height="150" src="https://www.youtube.com/embed/c8wewasHiXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/KPM8N4iTRpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/0WZL3563U3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|   -->
+
+<!-- | Video 4 | Video 5 |   -->
+<!-- |:-------:|:-------:|   -->
+<!-- |<iframe width="150" height="150" src="https://www.youtube.com/embed/LqpeAW9mDRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="150" height="150" src="https://www.youtube.com/embed/iplD5QuXbSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|   -->
 
 ## Promissory Note  
 

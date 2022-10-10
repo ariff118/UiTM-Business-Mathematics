@@ -1,9 +1,5 @@
 ---
 title: "Business Mathematics for UiTM"
----
-
----
-title: "Business Mathematics for UiTM"
 format: html
 ---
 
@@ -12,13 +8,9 @@ format: html
 ### Course Learning Outcomes  
 At the end of the course, students should be able to:  
 
-1. Express basic algebraic concepts in solving business application problems. ( C2 )  
-
-2. Solve mathematical problems encountered in banking and finance, trading and retailing, and accounting. ( C3 )  
-
-3. Determine mathematical concepts to solve mathematical problems in banking and finance, trading and retailing, and accounting. ( C4 )  
-
-4. Relate business mathematics applications to their respective field. ( A4 )  
+1. Describe basic algebra concepts in solving business mathematical problems. (C2)\
+2. Determine the solutions related to business mathematical problems. (C4)\
+3. Demonstrate entrepreneurial skill related to real life business mathematical problems. (A3)\
 
 ### Course Description  
 The course is primarily designed to develop the mathematical knowledge needed by the students to meet the demands of business operation. It is to provide a solid coverage of the most basic and frequently occurring business situations.  
@@ -50,9 +42,8 @@ The course is primarily designed to develop the mathematical knowledge needed by
 ### Proposed % Marks Approved by KPP  
 | Question Difficulty | Levels Range |  
 |:-------------------:|:------------:|  
-| C1 - C2 | 30 - 45 |  
-| C3 - C4 | 45 - 65 |  
-| C5 - C6 | 10 - 25 |  
+| C1 - C2 | 30 - 40 |  
+| C3 - C4 | 60 - 70 |  
 
 ### Assessment  
 
@@ -69,30 +60,23 @@ a column separator -->
 :::
 
 ::: {.column width="65%"}
-40.00%  
-Assignment - 4% out of 100 on Week 13. Passing Mark(s): 4  
-Individual Assignment  
-CLO: 4  
+50.00%  
 
-Quiz - 2% out of 100 on Week 3. Passing Mark(s): 2  
-Quiz 1  
-CLO: 1  
+Assessment Type: **Group Project**\
+Assessment Description: **Group Assignment**\
+% of Total Marks: **15%**\
+CLO: **3**\
 
-Quiz - 2% out of 100 on Week 7. Passing Mark(s): 2  
-Quiz 2  
-CLO: 2  
+Assessment Type: **Quiz**\
+Assessment Description: **Quiz**\
+% of Total Marks: **10%**\
+CLO: **1**\
 
-Quiz - 2% out of 100 on Week 11. Passing Mark(s): 2  
-Quiz 3  
-CLO: 3  
+Assessment Type: **Test**\
+Assessment Description: **Test**\
+% of Total Marks: **25%**\
+CLO: **2**\
 
-Test - 15% out of 100 on Week 9. Passing Mark(s): 15  
-Test 1  
-CLO: 2  
-
-Test - 15% out of 100 on Week 14. Passing Mark(s): 15  
-Test 2  
-CLO: 3  
 :::  
 
 ::::::
@@ -110,8 +94,8 @@ a column separator -->
 :::
 
 ::: {.column width="65%"}
-60.00%  
-Final Examination - 60% out of 100 on End of Semester. Passing Mark(s): 30  
+50.00%  
+Final Examination - 50% out of 100 on End of Semester.  
 Final Examination (All Chapters)  
 CLO: 1, 2, 3  
 Duration : 180 minutes  
@@ -123,16 +107,20 @@ Duration : 180 minutes
 Demonstrate maturity of thoughts when responding to multiple inputs and contexts.  
 
 ### Recommended Text  
-1. Lau Too Kya,Phang Yook Ngor and Wee Kok Kiang, Business Mathematics for UiTM, 5th edition, Oxford Fajar Sdn Bhd, 2015, ISBN: n/a  
+1. Lau Too Kya, Phang Yook Ngor and Wee Kok Kiang 2019, Business Mathematics for UiTM, 6th edition Ed., Oxford Fajar Sdn. Bhd [ISBN: 9789834729578]\
 
 ### References  
 
-1. Paul Lau Ngee Kiong, Business Mathematics, 1st, UiTM Press, 2013, ISBN: n/a  
-2. Gary Clendenen,Stanley A. Salzman, Business Mathematics, 13th, Pearson College Division, 2014, ISBN: n/a  
-3. James Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: n/a  
-4. Eugene Don, Joel Lerner, Schaum's Outline of Basic Mathematics, 2nd, McGraw-Hill, 2009, ISBN: n/a  
-5. Zin Ibrahim, Daud Mohamad, Business Mathematics, 1st, McGraw-Hill, 2008, ISBN: n/a  
-6. Robert Brechner, and George Bergeman,, Contemporary Mathematics for Business and Contemporary Mathematics for Business and Consumers, 7th edition, Cengage Learning, 2015, ISBN: n/a  
+1. Jeffrey Slater, Sharon M. Wittry 2018, Math for Business and Finance: An Algebraic Approach, 2nd Ed., Mc-Graw Hill Education [ISBN: 9781260092516]\
+
+2. Gary Clendenen, Stanley A. Salzman 2019, Business Mathematics, 14th Ed., Pearson [ISBN: 9780134697130]\
+
+3. Raymond A. Barnett, Ziegler Michael R, Byleen Karl E, Stocker Christopher J 2018, Finite Mathematics for Business Economics, Life Sciences and Social Sciences, 14th Ed.,
+Pearson [ISBN: 9780134675985]\
+
+4. Sheela Kannan 2019, Business Mathematics and Statistics [ISBN: 9789389088083]\
+
+5. Sreyashi Ghosh and Sujata Sinha 2019, Business Mathematics and Statistics, 1st Ed. [ISBN: 9780199476448]\
 
 ### Other References  
 This module does not have other references  
