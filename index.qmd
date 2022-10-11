@@ -3,6 +3,8 @@ title: "Business Mathematics for UiTM"
 format: html
 ---
 
+# MAT112\
+
 ## Course Information  
 
 ### Course Learning Outcomes  
@@ -141,4 +143,165 @@ This module does not have other references
 **Workshops Questions With Answers**  
 [Nov 2019 Session 1](materials/files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 1.pdf) [Answers](materials/files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 1.pdf)  
 
-[Nov 2019 Session 2](materials/files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 2.pdf) [Answers](materials/files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 2.pdf)    
+[Nov 2019 Session 2](materials/files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 2.pdf) [Answers](materials/files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 2.pdf)  
+
+---
+
+# MAT402\
+
+## Course Information\
+
+### *Course Learning Outcomes*\ 
+At the end of the course, students should be able to:\ 
+
+1. Describe the mathematical terms and concepts encountered in business mathematics. (C2)\
+2. Evaluate the mathematical problems related to business and finance. (C5)\
+3. Demonstrate the leadership, autonomy and responsibility skills to solve problems related to business mathematics. (A3)\
+  
+### *Course Description*\  
+The course is primarily designed to develop the mathematical knowledge needed by the students to meet the demands of business operation. It is to provide a solid coverage of the most basic and frequently occurring business situations.\
+
+### *Syllabus Content*\ 
+
+1. Sequence  
+    - Introduction to sequence  
+    - Arithmetic sequence  
+    - Finding the nth term and the sum of the first n terms  
+    - Geometric sequence  
+    - Finding the nth term and the sum of the first n terms  
+  
+2. Simple Interest  
+    - Introduction to interest  
+    - Basic Islamic banking concept  
+    - Comparison between conventional and Islamic banking  
+    - Simple interest formula  
+    - Simple amount formula  
+    - Exact time and approximate time  
+    - Ordinary simple interest and exact simple interest  
+    - Banker’s Rule  
+    - Present Value  
+  
+3. Bank Discount and Promissory Notes  
+    - Introduction to bank discount  
+    - Introduction to promissory note  
+    - Simple interest rate equivalent to bank discount rate  
+  
+4. Compound Interest  
+    - Time value of money  
+    - Introduction to compound interest  
+    - Important terms use in compound interest  
+    - Compound interest formula  
+    - Present Value  
+  
+5. Annuity  
+    - Introduction to annuity and types of annuities  
+    - Future value of ordinary annuity certain  
+    - Present value of ordinary annuity certain  
+    - Solving for R and n  
+  
+6. Installment Purchase  
+    - Introduction to installment purchase  
+    - Interest based on original balance  
+    - Interest based on reducing balance – constant ratio formula  
+    - Unpaid principal balance using Rule of 78  
+  
+7. Trade and Cash Discounts  
+    - Introduction to trade discount  
+    - Net price formula  
+    - Chain discount  
+    - Single discount equivalent to chain discount  
+    - Cash discount  
+  
+8. Mathematics of Retailing  
+    - Cost, selling price, profit, loss  
+    - Mark up and mark down  
+    - Profit and loss: Gross profit, net profit and breakeven price  
+    - Trade discount & Mathematics of retailing  
+  
+9. Depreciation  
+    - Introduction to depreciation  
+    - Straight line method  
+    - Declining balance method  
+  
+10. Personal Income Tax  
+    - Introduction to Income tax  
+    - Deductions allowed  
+    - Taxable income  
+    - Rebates  
+    - Tax rate schedule  
+    - Tax assessment for individual who is single  
+    - Tax assessment for individual who is married – separate and combine assessment  
+  
+  
+### *Transferable Skills*  
+
+- Demonstrate ability to identify and articulate self skills, knowledge and understanding confidently and in a variety of contexts. -Demonstrate ability to investigate problems and provide effective solutions.  
+
+- Demonstrate ability to analyse issues/problems from multiple angles and make suggestions.  
+
+### *Proposed % Marks Approved by KPP*\
+Question Difficulty Levels Range\
+
+C1 - C2 (20 - 35)\
+C3 - C4 (45 - 55)\
+C5 - C6 (15 - 20)\
+
+### *Course Assessment*  
+
+Final examination – One 3-hour paper	: 50%  
+Course Work (Continuous assessments) 	: 50%  
+  - Test (20%): 60 Marks (2 hours, C5)  
+  - Quizzes (20%): 30 Marks (1 hour, C2)  
+  - Group Assignments (10%): 100 Marks (A3)  
+    
+    
+### *Recommended Text*\ 
+1. Lau Too Kya,Phang Yook Ngor,Wee Kok Kiang, Business Mathematics for UiTM, 6th, Oxford Fajar Sdn. Bhd., 2019, ISBN: 9789834279\
+
+
+### *References*\
+1. Gary Clendenen, Stanley A. Salzman, Business Mathematics, 14th, Pearson, 2019, ISBN: 9780134697\
+
+2. Jeffrey Slater,Sharon M. Wittry, Math for Business and Finance: An Algebraic Approach, 2nd, Irwin/McGraw-Hill, 2019, ISBN: 9781259957581\
+
+3. Raymond A. Barnett, Michael R. Ziegler, Karl E. Byleen, Christopher J. Stocker, Finite Mathematics for Business, Economics, Life Sciences, and Social Sciences, 14th, Pearson, 2019, ISBN: 978013467598\
+
+4. Edward Ira Edgerton,Wallace Edgar Bartholomew, Business Mathematics: A Textbook for Schools, Wentworth Press, 2019, ISBN: 9781012954574\
+
+5. Ian Jacques, Mathematics for Economics and Business, 9th, Pearson Education Limited, 2018, ISBN: 9781292191669
+
+## Group Assignment: Annuity in practices\
+
+*Submission*\
+The assignment must be submitted into Google Drive Folder (will be given by the instructors) before end of week 8. Failing to comply with the deadline given will result in deduction of marks.\
+
+*Preparation*\
+In your lessons on Annuity, you learned the meaning of annuity, types, and the formulae of calculating annuities.\
+In this assignment, you are required to make a short video (3 minutes) on how annuities are practiced in real life.\
+You are encouraged to do research using Internet resources.\
+
+*Grading*\
+Your  assignment will be graded using the **Video Presentation (80%)** and **Peer Evaluation (20%)** Rubrics.\
+Please review and keep it in mind as you prepare your presentation, each component is weighted as follows:\
+
+**20% Introduction**\
+Introduction is interesting and addressed audience well.\
+
+**30% Content**\
+Content is organized systematically, accurately, relevantly and completely.\ 
+
+**15% Effective Audio Visual**\
+Visual aids are well usage in order to make presentation more interesting and meaningful.\
+
+**15% Time Management**\
+The presentation is able to start and complete within the time frame (3 minutes).\
+
+## Assessment Evidence {.tabset}  
+
+### 20202  
+[Quiz 1 (2%)](materials/files/assessment/QUIZ 1 MAT112.docx)  
+[Test 1 (10%)](materials/files/assessment/Test 1 MAT402 May 2020.docx)
+
+
+### 20204  
+
