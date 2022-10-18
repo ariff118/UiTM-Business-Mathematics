@@ -266,7 +266,23 @@ $$
 
 ## Exercises  
 
-1. Find the sum of the first 23 terms of the AP $4, −3, −10,...$  
+1. Find the sum of the first 23 terms of the AP $4, −3, −10,...$\
+
+::: {.callout-note collapse="true"}
+
+## **Solution**\
+
+$$
+\begin{aligned}
+a\ &=\ 4 \\
+d\ &=\ -3\ -\ 4\ =\ -7 \\
+
+S_{23}\ &=\ \frac{n}{2}(2a\ +\ (n-1)d) \\ 
+&=\ \frac{23}{2}(2(4)\ +\ 22(-7)) \\ 
+&=\ -1,679
+\end{aligned}
+$$  
+:::
 
 2. An arithmetic series has first term 4 and common difference $\frac{1}{2}$. Find,  
 

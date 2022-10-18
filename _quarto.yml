@@ -39,6 +39,8 @@ website:
             text: "10. Income Tax (MAT402 ONLY)"
       - href: materials/videos.qmd
         text: Learning Videos
+      - href: materials/exampapers.qmd
+        text: Past Exam Papers
     right: 
       # - href: "https://quarto.org/"
       #   text: "Quarto Docs"
@@ -79,6 +81,8 @@ format:
     theme: united
     css: styles.css
     toc: true
+    callout-appearance: simple
+    callout-icon: false
 
 
 
