@@ -10,9 +10,11 @@ website:
     left: "This page was built with ❤️ by [kammyariff](https://ariff118.github.io/kamansor.github.io)."
   navbar:
     background: "#4d336b"
-    left:
-      - href: index.qmd
-        text: Home
+    right:
+      # - href: index.qmd
+      #   text: Home
+      - href: materials/sow.qmd
+        text: Weekly Lesson Plan
       - text: Web Notes
         menu: 
           - href: materials/00.qmd
@@ -41,7 +43,7 @@ website:
         text: Learning Videos
       - href: materials/exampapers.qmd
         text: Past Exam Papers
-    right: 
+    # right: 
       # - href: "https://quarto.org/"
       #   text: "Quarto Docs"
       - icon: github
