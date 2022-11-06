@@ -42,4 +42,48 @@ To change the decimal value to fraction, just moves the decimal points to the ri
 **Percentages** are expressed as the number of parts in every 100 such that it is a fraction with denominator value of 100. In other words, a percentage is a number or ratio as a fraction of 100. It is normally written with a symbol "%".
 :::
 
-To change a fraction or decimal to a percent, simply multiply the number with 100%. For example, $0.235\ \times\ 100\%\ =\ 23.5%$
+To change a fraction or decimal to a percent, simply multiply the number with 100%. For example, $0.235\ \times\ 100\%\ =\ 23.5%$\
+
+## Linear Equation\
+
+1. A linear equation in one unknown is an equation in which the only exponent on the
+unknown is 1.\
+2. The general form of a basic linear equation is $ax + b = c$\
+3. Solving linear equations is an important and fundamental skill in algebra.\
+4. The goal is to write the equation in the form variable = constant.\
+5. The solution to an equation is the set of all values that check in the equation.\
+
+### Examples\
+
+1. $5y − 8 = 3y + 12$\
+
+::: {.callout-note collapse="true"}
+
+**Answer**\
+$$
+\begin{align}
+5y-3y&=12+8 \\
+2y&=20 \\
+y&=\frac{20}{2} \\
+y&=10
+\end{align}
+$$
+
+:::
+
+2. $1.2x + 4.3 = 2.1 − x$\
+
+::: {.callout-note collapse="true"}
+
+**Answer**\
+$$
+\begin{align}
+1.2x+x&=2.1-4.3 \\
+2.2x&=-2.2 \\
+x&=\frac{-2.2}{2.2} \\
+x&=-1
+\end{align}
+$$
+
+:::
+

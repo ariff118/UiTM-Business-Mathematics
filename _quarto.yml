@@ -43,6 +43,8 @@ website:
         text: Learning Videos
       - href: materials/exampapers.qmd
         text: Past Exam Papers
+      - href: materials/qna.qmd
+        text: Q & A
     # right: 
       # - href: "https://quarto.org/"
       #   text: "Quarto Docs"

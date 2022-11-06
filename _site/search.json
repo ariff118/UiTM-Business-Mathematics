@@ -56,6 +56,13 @@
     "text": "Percents\n\n\n\n\n\n\n\nPercentages are expressed as the number of parts in every 100 such that it is a fraction with denominator value of 100. In other words, a percentage is a number or ratio as a fraction of 100. It is normally written with a symbol “%”.\n\n\n\nTo change a fraction or decimal to a percent, simply multiply the number with 100%. For example, \\(0.235\\ \\times\\ 100\\%\\ =\\ 23.5%\\)"
   },
   {
+    "objectID": "materials/00.html#linear-equation",
+    "href": "materials/00.html#linear-equation",
+    "title": "Review of Algebra",
+    "section": "Linear Equation\n",
+    "text": "Linear Equation\n\n\nA linear equation in one unknown is an equation in which the only exponent on the unknown is 1.\n\nThe general form of a basic linear equation is \\(ax + b = c\\)\n\nSolving linear equations is an important and fundamental skill in algebra.\n\nThe goal is to write the equation in the form variable = constant.\n\nThe solution to an equation is the set of all values that check in the equation.\n\n\n\nExamples\n\n\n\\(5y − 8 = 3y + 12\\)\n\n\n\n\n\n\n\n\nAnswer\n\n\\[\n\\begin{align}\n5y-3y&=12+8 \\\\\n2y&=20 \\\\\ny&=\\frac{20}{2} \\\\\ny&=10\n\\end{align}\n\\]\n\n\n\n\n\\(1.2x + 4.3 = 2.1 − x\\)\n\n\n\n\n\n\n\n\nAnswer\n\n\\[\n\\begin{align}\n1.2x+x&=2.1-4.3 \\\\\n2.2x&=-2.2 \\\\\nx&=\\frac{-2.2}{2.2} \\\\\nx&=-1\n\\end{align}\n\\]"
+  },
+  {
     "objectID": "materials/01.html",
     "href": "materials/01.html",
     "title": "Sequence",
@@ -362,6 +369,20 @@
     "title": "Past Semester Exam Paper",
     "section": "MAT402\n",
     "text": "MAT402\n\nDecember 2019\nJune 2019\nDecember 2018\nJune 2018\nJanuary 2018\nJuly 2017\nDecember 2016\nJune 2016\nDecember 2015\nJune 2015\nDecember 2014\nJune 2014\nDecember 2013"
+  },
+  {
+    "objectID": "materials/qna.html",
+    "href": "materials/qna.html",
+    "title": "Q & A",
+    "section": "",
+    "text": "MAT112\n\n\n\n\nIf you can’t view the pdf file, click on the file’s link -  Download PDF!"
+  },
+  {
+    "objectID": "materials/qna.html#mat402-past-exam-papers",
+    "href": "materials/qna.html#mat402-past-exam-papers",
+    "title": "Q & A",
+    "section": "MAT402 Past Exam Papers\n",
+    "text": "MAT402 Past Exam Papers\n\n\n\nFEBRUARY 2022\n\n\n\n\nIf you can’t view the pdf file, click on the file’s link -  Download PDF!"
   },
   {
     "objectID": "materials/sow.html",

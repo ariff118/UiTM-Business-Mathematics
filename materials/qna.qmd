@@ -1,0 +1,28 @@
+---
+title: "Q & A"
+format: html
+---
+
+## Simple Interest\
+
+<details><summary>MAT112</summary>
+<center>
+<embed src="files/exampapers/solutions/mat112_simple_interest.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/exampapers/solutions/mat112_simple_interest.pdf"> Download PDF!</a>
+</p>
+</center>
+</details>
+
+***
+
+## MAT402 Past Exam Papers\
+
+<details><summary>FEBRUARY 2022</summary>
+<center>
+<embed src="files/exampapers/solutions/mat402_feb_2022_20212.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/exampapers/solutions/mat402_feb_2022_20212.pdf"> Download PDF!</a>
+</p>
+</center>
+</details>
