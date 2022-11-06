@@ -3,9 +3,20 @@ title: "Q & A"
 format: html
 ---
 
+## Sequence\
+
+<details><summary>MAT112 - Sequence</summary>
+<center>
+<embed src="files/exampapers/solutions/mat112_sequence.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/exampapers/solutions/mat112_sequence.pdf"> Download PDF!</a>
+</p>
+</center>
+</details>
+
 ## Simple Interest\
 
-<details><summary>MAT112</summary>
+<details><summary>MAT112 - Simple Interest</summary>
 <center>
 <embed src="files/exampapers/solutions/mat112_simple_interest.pdf" type="application/pdf" width="100%" height="970px" />
 <p>
