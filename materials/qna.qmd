@@ -37,3 +37,14 @@ If you can't view the pdf file, click on the file's link - <a href="files/exampa
 </p>
 </center>
 </details>
+
+## MAT402 Quiz\
+
+<details><summary>20212 (Mac - July 2022)</summary>
+<center>
+<embed src="files/exampapers/solutions/mat402_quiz_20222.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/exampapers/solutions/mat402_quiz_20222.pdf"> Download PDF!</a>
+</p>
+</center>
+</details>
