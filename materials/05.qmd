@@ -161,7 +161,14 @@ Two (2) important comcepts to remember:
 1. When you have late payments --> use formula $S$ (keywords: failed to pay or arrears).  
 2. When you want to pay early --> use formula $A$ (keywords: settle the debt/loan immediately).  
 
+## Tutorial Questions\
 
+<center>
+<embed src="files/tutorials/MAT112/C5/QUESTION_TUTORIAL ANNUITY.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C5/QUESTION_TUTORIAL ANNUITY.pdf"> Download PDF!</a>
+</p>
+</center>
 
 
 

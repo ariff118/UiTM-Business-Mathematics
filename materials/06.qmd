@@ -146,6 +146,14 @@ Companies use these terms to encourage early payment of the invoice. If paid ear
 
 In the business world, you might see 2/10 or some other numbers in the same format that tells you what kind of discount you would get if you pay early. For example, 2/15 says that you will get a two percent discount if you pay within 15 days.  
 
+## Tutorial Questions\
+
+<center>
+<embed src="files/tutorials/MAT112/C6/QUESTION_TUTORIAL TRADE _ CASH DISCOUNT.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C6/QUESTION_TUTORIAL TRADE _ CASH DISCOUNT.pdf"> Download PDF!</a>
+</p>
+</center>
 
 ## Acknowledgments {.appendix}
 

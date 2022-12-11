@@ -244,7 +244,14 @@ $S$ ---> total payment, total savings, accumulated amount
     i. Find the interest rate k% compounded quarterly. **(4.5%)**  
     ii. Calculate the compound amount if the investment is extended for another two years. **(RM23253.48)**  
     
+## Tutorial Questions\
 
+<center>
+<embed src="files/tutorials/MAT112/C4/QUESTION_TUTORIAL COMPOUND INTEREST.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C4/QUESTION_TUTORIAL COMPOUND INTEREST.pdf"> Download PDF!</a>
+</p>
+</center>
 
 ## Acknowledgements {.appendix}  
 Chan, J. (2020). *Time Value of Money (TVM)*. Retrieved from https://www.investopedia.com/terms/t/timevalueofmoney.asp on March 8, 2020.  

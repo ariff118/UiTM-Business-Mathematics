@@ -322,7 +322,14 @@ i. the maturity date of the note **(19th December 2005)**
 ii. the maturity value of the note **(RM5090.28)**  
 iii. the discount rate. **(8.50%)**  
 
+## Tutorial Questions\
 
+<center>
+<embed src="files/tutorials/MAT112/C3/QUESTION_TUTORIAL PROMISSORY NOTES _ BANK DISCOUNT.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C3/QUESTION_TUTORIAL PROMISSORY NOTES _ BANK DISCOUNT.pdf"> Download PDF!</a>
+</p>
+</center>
 
 
 

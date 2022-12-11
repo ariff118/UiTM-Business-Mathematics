@@ -192,7 +192,14 @@ Let's use this formula to calculate our monthly payments for our car that costs 
 Note that if n is yearly, then r will be the annual interest rate. If n is monthly, then r
 will be the monthly interest rate or the annual interest rate divided by 12.  
 
+## Tutorial Questions\
 
+<center>
+<embed src="files/tutorials/MAT112/C8/QUESTION_TUTORIAL INSTALMENT PURCHASES.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C8/QUESTION_TUTORIAL INSTALMENT PURCHASES.pdf"> Download PDF!</a>
+</p>
+</center>
 
        
 ## Acknowledgments {.appendix}

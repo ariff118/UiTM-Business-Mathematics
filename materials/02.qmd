@@ -164,6 +164,14 @@ $$
 
 ## Exercises  
 
+## Tutorial Questions\
+
+<center>
+<embed src="files/tutorials/MAT112/C2/QUESTION_TUTORIAL SIMPLE INTEREST.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C2/QUESTION_TUTORIAL SIMPLE INTEREST.pdf"> Download PDF!</a>
+</p>
+</center>
 
 ## Acknowledgement {.appendix}  
 Business Mathematics Manual.  

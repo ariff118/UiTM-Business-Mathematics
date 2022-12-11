@@ -168,6 +168,14 @@ Now she is considering how much to mark down her prices. Her starting price is R
 
 Shalon can do this two ways. She can either offer a 33% off coupon to all her customers or she can decrease her prices without offering coupons. Even if she sells a shirt for RM20, she is still making profit.  
 
+## Tutorial Questions\
+
+<center>
+<embed src="files/tutorials/MAT112/C7/QUESTION_TUTORIAL MARKUP MARKDOWN.pdf" type="application/pdf" width="100%" height="970px" />
+<p>
+If you can't view the pdf file, click on the file's link - <a href="files/tutorials/MAT112/C7/QUESTION_TUTORIAL MARKUP MARKDOWN.pdf"> Download PDF!</a>
+</p>
+</center>
 
 ## Acknowledgments {.appendix}
 
