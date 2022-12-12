@@ -41,6 +41,8 @@ website:
             text: "10. Income Tax (MAT402 ONLY)"
       - href: materials/videos.qmd
         text: Learning Videos
+      - href: materials/gp.qmd
+        text: Group Assignment
       - href: materials/exampapers.qmd
         text: Past Exam Papers
       - href: materials/qna.qmd

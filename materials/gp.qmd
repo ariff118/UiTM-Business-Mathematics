@@ -1,0 +1,86 @@
+---
+title: "Grooup Assignment"
+format: html
+---
+  
+## MAT112\
+
+### **SUBMISSION**\
+DURATION: **WEEK 9 - WEEK 11**\
+DUE DATE: **7 JANUARY 2023 (SATURDAY, BEFORE 5PM)**\
+
+### **CHAPTER:**\
+C6: Annuity\
+C7: Trade & Cash Discount\
+
+### **INSTRUCTIONS TO CANDIDATES:**\
+
+1. Set up a group that consists of maximum **FOUR (4)** members.\
+
+2. This group project consists of **TWO (2)** questions (40 marks).\
+
+3. Video Presentation Guidelines:\
+
+  a. You should prepare a video presentation with duration 6–10 minutes. (Suggestions: You can voice over the Powerpoint video/powtoon/sparkol videoscribe/canva or any other creative methods of presentation).\
+
+  b. The video should not be more than 10 minutes length.\
+
+  c. All information on the first slide of your presentation must consists of:\
+      i) the title of assignment (Annuity and Trade & Cash Discount),\
+      ii) names & photo of leader and all members,\
+      iii) student ID\
+      iv) group (example: KAC1101A)\
+
+  d. All presentations must be in English.\
+
+  e. Audio commentary and all information on the slides must be clearly presented.\
+
+  f. Please send/upload your video according to the platform used by your lecturer such as Google Classroom, UFUTURE or others. Rename your video as leader’s name and class (example: **NAME_KAC1101A**)\
+
+  g. Deadline for video submission: 6 Jan 2023, before 5 pm.\
+
+  h. You can find some useful tips for your presentation in the following links:\
+      i) [For Giving Effective Virtual Presentations](https://www.gsb.stanford.edu/insights/10-tips-giving-effective-virtual-presentations)
+(written by Matt Abrahams)\
+
+      ii) [How to create voice-over narration for your PowerPoint Presentation](https://www.youtube.com/watch?v=3uk4CU7uobM) (By Dawn Dubriel)\
+
+### **Video Presentation Scoring Rubrics:**\
+- 60% Video Presentation\
+- 40% Case Study\
+[View Scoring Rubric](https://drive.google.com/file/d/1LcaTEf23aSmgBZy8DBVXznfQaKJCT2VE/view?usp=drivesdk)
+
+Thanks for your cooperation.\
+
+---
+
+## MAT402\
+
+### **Group Assignment: Annuity in practices**\
+
+### **Submission**\
+The assignment must be submitted into Google Drive folder assigned by your instructors **before 31.12.2022**. Failing to comply with the deadline given will result in deduction of marks.\
+
+### **Preparation**\
+Set up a group that consists of maximum **FOUR (4)** members. In your lessons on Annuity, you learned the meaning of annuity, types, and the formulae of calculating annuities. In this assignment, you are required to make a short video (**3 - 5 minutes**) on how annuities are practiced in real life. You are encouraged to do research using Internet resources. You may use questions from the past semester final examination for creating problem solving process in annuity.\
+
+### **Grading**\
+Your  assignment will be graded using the **Video Presentation (80%)** and **Peer Evaluation (20%)** Rubrics. Please review and keep it in mind as you prepare your presentation, each component is weighted as follows:\
+
+**20% Introduction**\
+Introduction is interesting and addressed audience well.\
+
+**30% Content**\
+Content is organized systematically, accurately, relevantly and completely.\
+
+**15% Effective Audio Visual**\
+Visual aids are well usage in order to make presentation more interesting and meaningful.\
+
+**15% Time Management**\
+The presentation is able to start and complete within the time frame (**3 - 5 minutes**).\
+
+### **Rubric Guidelines**\
+
+![Video Presentations](files/mat402_video_rubrics.png)\
+
+![Peer Evaluation](files/mat402_peer_rubric.png)\
