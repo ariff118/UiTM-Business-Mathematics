@@ -145,6 +145,19 @@ This module does not have other references
 
 [Nov 2019 Session 2](materials/files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 2.pdf) [Answers](materials/files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 2.pdf)  
 
+### 20224\
+[Quiz - Set 1 (10%)](materials/files/assessment/20224/MAT112/QUIZ/SET 1_QUESTIONS.pdf)\
+[Quiz - Set 2 (10%)](materials/files/assessment/20224/MAT112/QUIZ/SET 2_QUESTIONS.pdf)\
+[Quiz - Set 3 (10%)](materials/files/assessment/20224/MAT112/QUIZ/SET 3_QUESTIONS.pdf)\
+[Quiz - Set 4 (10%)](materials/files/assessment/20224/MAT112/QUIZ/SET 4_QUESTIONS.pdf)\
+
+<details><summary>Answers</summary>
+[Quiz - Set 1 (10%)](materials/files/assessment/20224/MAT112/QSET 1_ANSWERS.pdf)\
+[Quiz - Set 2 (10%)](materials/files/assessment/20224/MAT112/QSET 2_ANSWERS.pdf)\
+[Quiz - Set 3 (10%)](materials/files/assessment/20224/MAT112/QUIZ/SET 3_ANSWERS.pdf)\
+[Quiz - Set 4 (10%)](materials/files/assessment/20224/MAT112/QSET 4_ANSWERS.pdf)\
+</details>
+
 ---
 
 # MAT402\
@@ -233,7 +246,7 @@ The course is primarily designed to develop the mathematical knowledge needed by
     - Tax assessment for individual who is married – separate and combine assessment  
   
   
-### *Transferable Skills*  
+### *Transferable Skills*\
 
 - Demonstrate ability to identify and articulate self skills, knowledge and understanding confidently and in a variety of contexts. -Demonstrate ability to investigate problems and provide effective solutions.  
 
@@ -246,7 +259,7 @@ C1 - C2 (20 - 35)\
 C3 - C4 (45 - 55)\
 C5 - C6 (15 - 20)\
 
-### *Course Assessment*  
+### *Course Assessment*\
 
 Final examination – One 3-hour paper	: 50%  
 Course Work (Continuous assessments) 	: 50%  
@@ -302,6 +315,10 @@ The presentation is able to start and complete within the time frame (3 minutes)
 [Quiz 1 (2%)](materials/files/assessment/QUIZ 1 MAT112.docx)  
 [Test 1 (10%)](materials/files/assessment/Test 1 MAT402 May 2020.docx)
 
+### 20222  
+[Quiz (20%)](materials/files/assessment/20222/MAT402/quiz_questions.pdf)\
+[Test (20%)](materials/files/assessment/20222/MAT402/test_questions.pdf)\
 
-### 20204  
+### 20224  
+[Quiz (20%)](materials/files/assessment/20224/MAT402/quiz_questions.pdf)\
 

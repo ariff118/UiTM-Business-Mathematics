@@ -118,6 +118,7 @@ function showDivs(n) {
 
 ## Learning Videos  
 
+<center>
 <iframe width="500" height="350" src="https://www.youtube.com/embed/KRYatZS5e1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="500" height="350" src="https://www.youtube.com/embed/ikUaaHKOXVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -131,6 +132,8 @@ function showDivs(n) {
 <iframe width="500" height="350" src="https://www.youtube.com/embed/cfNk6aV2kdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="500" height="350" src="https://www.youtube.com/embed/vupDwSIC3Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+</center>
 
 <!-- | Video 1 | Video 2 |   -->
 <!-- |:-------:|:-------:|   -->
