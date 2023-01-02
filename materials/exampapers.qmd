@@ -5,6 +5,12 @@ format: html
 
 ## MAT112\
 
+### New Format\
+[July 2022 Set 1](files/exampapers/mat112/2022 July Set 1.pdf)  
+[July 2022 Set 2](files/exampapers/mat112/2022 July Set 2.pdf)  
+[September 2022 Supp Exam](files/exampapers/mat112/2022 September Supp.pdf)  
+
+### Old Fomat\
 [December 2019](files/exampapers/mat112/2019 December.pdf)  
 [June 2019](files/exampapers/mat112/2019 June.pdf)  
 [December 2018](files/exampapers/mat112/2018 December.pdf)  

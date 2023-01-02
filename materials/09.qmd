@@ -207,7 +207,7 @@ S\ &=\ Salvage\ Value
 $$  
 The Book Value of any years is calculated by,  
 $$
-Book\ Value(BV_n)\ =\ C\ -\ C(1\ -\ r)^n\\
+Book\ Value(BV_n)\ =\ C(1\ -\ r)^n\\
 $$  
 The accumulated depreciation for certain year can be calculated as,  
 $$
