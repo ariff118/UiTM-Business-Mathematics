@@ -119,7 +119,7 @@ This chapter deals with the concepts of income tax. However, for this course we 
 4. recognize that tax rebate is allowed for a chargeable income of less than RM35,000 and that zakat is an allowable rebate, and  
 5. calculate tax payable.  
 
-[Reference - LHDN](https://www.hasil.gov.my/en/individual/introduction-individual-income-tax/)  
+[Reference - Official LHDN Website](https://www.hasil.gov.my/en/individual/introduction-individual-income-tax/)  
 
 ## Type of Assessment  
 
@@ -147,30 +147,42 @@ To calculate tax payable amount, there are 5 steps:
   
 ### 2. *Donation*  
 
-  | Contribution | Amount |  
-  |:-------------|:------:|  
-  | Gift of money to the Government, State Government or Local Authorities. | NIL |  
-  | Gift of money to Approved Institutions or Organisations. | (Amount is limited to 7% of aggregate income)  |  
-  | Gift of money or cost of contribution in kind for any Approved Sports Activity or Sports Body. | (Amount is limited to 7% of aggregate income) |  
-  | Gift of money or cost of contribution in kind for any Approved Project of National Interest Approved by Ministry of Finance. | (Amount is limited to 7% of aggregate income) |  
-  | Gift of artifacts, manuscripts or paintings. | NIL |  
-  | Gift of money for provision of Library Facilities or to Libraries | NIL |  
+[Donation & Gift](https://www.hasil.gov.my/en/individual/individual-life-cycle/how-to-declare-income/donations-gifts/)  
+
+  <!-- | Contribution | Amount |   -->
+  <!-- |:-------------|:------:|   -->
+  <!-- | Gift of money to the Government, State Government or Local Authorities. | NIL |   -->
+  <!-- | Gift of money to Approved Institutions or Organisations. | (Amount is limited to 7% of aggregate income)  |   -->
+  <!-- | Gift of money or cost of contribution in kind for any Approved Sports Activity or Sports Body. | (Amount is limited to 7% of aggregate income) |   -->
+  <!-- | Gift of money or cost of contribution in kind for any Approved Project of National Interest Approved by Ministry of Finance. | (Amount is limited to 7% of aggregate income) |   -->
+  <!-- | Gift of artifacts, manuscripts or paintings. | NIL |   -->
+  <!-- | Gift of money for provision of Library Facilities or to Libraries | NIL |   -->
   
 ### 3. *Reliefs*  
 
+<!-- ```{r echo=FALSE} -->
+<!-- library(webshot) -->
+<!-- knitr::include_url("https://www.hasil.gov.my/en/individual/individual-life-cycle/how-to-declare-income/tax-reliefs/") -->
+<!-- ```   -->
+
+<!-- <iframe width='1000px' height='1000px' src='https://www.hasil.gov.my/en/individual/individual-life-cycle/how-to-declare-income/tax-reliefs/'> -->
+<!--   <p>Your browser does not support iframes</p> -->
+<!-- </iframe> -->
+
 [Tax Relief](https://www.hasil.gov.my/en/individual/individual-life-cycle/how-to-declare-income/tax-reliefs/)  
 
-<center style="max-width:700px">
-![Individual Tax Reliefs 2019](files/notes/reliefs_2019.png)  
+
+<!-- <center style="max-width:700px"> -->
+<!-- ![Individual Tax Reliefs 2019](files/notes/reliefs_2019.png)   -->
 </center>  
 
 ### 4. *Taxable Income (Chargeable Income)*  
 
 [Tax Rate](https://www.hasil.gov.my/en/individual/individual-life-cycle/how-to-declare-income/tax-rate/)  
 
-<center style="max-width:700px">
-![](files/notes/tax_schedule_2018_2019.png)
-</center>  
+<!-- <center style="max-width:700px"> -->
+<!-- ![](files/notes/tax_schedule_2018_2019.png) -->
+<!-- </center>   -->
 
 
 ### 5. *Rebates*  
