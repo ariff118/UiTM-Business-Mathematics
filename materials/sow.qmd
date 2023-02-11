@@ -24,4 +24,122 @@ If you can't view the pdf file, click on the file's link - <a href="files/SOW/20
 </p>
 </center>
 </details>
+
 ***
+
+## 20224 Continuous Assessment\
+
+```{r include=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+library(grid)
+library(DT)
+
+# Read data from specific sheet in excel
+data1 <- read_excel("CM_20224.xlsx", sheet = "MAT112_KAC1101C")
+data2 <- read_excel("CM_20224.xlsx", sheet = "MAT112_KAC1101D")
+data3 <- read_excel("CM_20224.xlsx", sheet = "MAT112_KAM1101G")
+data4 <- read_excel("CM_20224.xlsx", sheet = "MAT402_KAM2281A")
+data5 <- read_excel("CM_20224.xlsx", sheet = "MAT402_KAM2281B")
+
+# Omit columns 3 to 5
+data1_new <- data1[, -c(3:5)]
+data2_new <- data2[, -c(3:5)]
+data3_new <- data3[, -c(3:5)]
+data4_new <- data4[, -c(3:5)]
+data5_new <- data5[, -c(3:5)]
+
+# Format the last column to display only 2 decimal places
+data1_new[,ncol(data1_new)] <- round(data1_new[,ncol(data1_new)], 2)
+data2_new[,ncol(data2_new)] <- round(data2_new[,ncol(data2_new)], 2)
+data3_new[,ncol(data3_new)] <- round(data3_new[,ncol(data3_new)], 2)
+data4_new[,ncol(data4_new)] <- round(data4_new[,ncol(data4_new)], 2)
+data5_new[,ncol(data5_new)] <- round(data5_new[,ncol(data5_new)], 2)
+```
+
+::: {.panel-tabset}
+
+## MAT112\
+
+::: {.panel-tabset}
+
+### KAC1101C\
+
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT112 KAC1101C
+# kable(data1_new, "html", 
+#       caption = "Data from Sheet 1",
+#       escape = F) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = T)
+datatable(data1_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+### KAC1101D\
+
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT112 KAC1101D
+# kable(data2_new, "html", 
+#       caption = "Data from Sheet 2",
+#       escape = F) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data2_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+### KAM1101G\
+
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT112 KAM1101G
+# kable(data3_new, "html", 
+#       caption = "Data from Sheet 3",
+#       escape = F) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data3_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+:::
+
+## MAT402\
+
+::: {.panel-tabset}
+
+### KAM2281A\
+
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281A
+# kable(data4_new, "html", 
+#       caption = "Data from Sheet 4",
+#       escape = F) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data4_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+### KAM2281B  
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281B
+# kable(data5_new, "html", 
+# #      caption = "Data from Sheet 5",
+#       escape = T) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data5_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+:::
+
+:::
+
