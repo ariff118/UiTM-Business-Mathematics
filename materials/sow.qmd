@@ -3,6 +3,39 @@ title: "Weekly Schedule"
 format: html
 ---
 
+## 20234 (October 2023 - February 2024)\
+
+::: {.panel-tabset}
+
+## MAT112\
+
+::: {.panel-tabset}
+
+### SOW\
+![](.\images\mat112_sow_20234.jpg)
+
+### Tab 2\
+
+Insert contents here
+
+:::
+
+## MAT402\
+
+::: {.panel-tabset}
+
+### SOW\
+
+Insert SOW here
+
+### Tab 2\ 
+
+Insert contents here
+
+:::
+
+:::
+
 ## 20224 (October 2022 - March 2023)\
 
 <details><summary>**MAT112**</summary>
