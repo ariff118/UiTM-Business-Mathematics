@@ -14,9 +14,27 @@ format: html
 ### SOW\
 ![](.\images\mat112_sow_20234.jpg)
 
-### Tab 2\
+### Assessment\
 
-Insert contents here
+**Continuous Assessment: 50.00%**\
+
+Group Project - 15% out of 100 on Week 8. Passing Mark(s): 50\
+Group Assignment\
+CLO: 3\
+
+Quiz - 10% out of 100 on Week 5. Passing Mark(s): 50\
+Individual Quiz\
+CLO: 1\
+
+Test - 25% out of 100 on Week 13. Passing Mark(s): 50\
+Individual Test\
+CLO: 2\
+
+**Final Assessment: 50.00%**\
+Final Examination - 50% out of 100 on Final Exam Week. Passing Mark(s): 50\
+Cover all topics.\
+CLO: 2\
+Duration : 180 minutes\
 
 :::
 
@@ -28,9 +46,9 @@ Insert contents here
 
 Insert SOW here
 
-### Tab 2\ 
+### Assessment\ 
 
-Insert contents here
+![](.\images\assessment_mat402_20234.jpg)
 
 :::
 
