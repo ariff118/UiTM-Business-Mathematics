@@ -44,7 +44,7 @@ Duration : 180 minutes\
 
 ### SOW\
 
-Insert SOW here
+![](.\images\sow_mat402_20234.png)
 
 ### Assessment\ 
 
