@@ -88,18 +88,18 @@ library(grid)
 library(DT)
 
 # Read data from specific sheet in excel
-data1 <- read_excel("CM_20224.xlsx", sheet = "MAT112_KAC1101C")
-data2 <- read_excel("CM_20224.xlsx", sheet = "MAT112_KAC1101D")
-data3 <- read_excel("CM_20224.xlsx", sheet = "MAT112_KAM1101G")
-data4 <- read_excel("CM_20224.xlsx", sheet = "MAT402_KAM2281A")
-data5 <- read_excel("CM_20224.xlsx", sheet = "MAT402_KAM2281B")
+data1 <- read_excel("20224 OGA.xlsx", sheet = "MAT112_KAC1101C")
+data2 <- read_excel("20224 OGA.xlsx", sheet = "MAT112_KAC1101D")
+data3 <- read_excel("20224 OGA.xlsx", sheet = "MAT112_KAM1101G")
+data4 <- read_excel("20224 OGA.xlsx", sheet = "MAT402_KAM2281A")
+data5 <- read_excel("20224 OGA.xlsx", sheet = "MAT402_KAM2281B")
 
 # Omit columns 3 to 5
-data1_new <- data1[, -c(3:5)]
-data2_new <- data2[, -c(3:5)]
-data3_new <- data3[, -c(3:5)]
-data4_new <- data4[, -c(3:5)]
-data5_new <- data5[, -c(3:5)]
+data1_new <- data1[, -c(3)]
+data2_new <- data2[, -c(3)]
+data3_new <- data3[, -c(3)]
+data4_new <- data4[, -c(3)]
+data5_new <- data5[, -c(3)]
 
 # Format the last column to display only 2 decimal places
 data1_new[,ncol(data1_new)] <- round(data1_new[,ncol(data1_new)], 2)
@@ -206,12 +206,12 @@ library(grid)
 library(DT)
 
 # Read data from specific sheet in excel
-data6 <- read_excel("CM_20232.xlsx", sheet = "MAT402_KAM2282A")
-data7 <- read_excel("CM_20232.xlsx", sheet = "MAT402_KAM2282B")
+data6 <- read_excel("20232 OGA.xlsx", sheet = "MAT402 KAM2282A")
+data7 <- read_excel("20232 OGA.xlsx", sheet = "MAT402 KAM2282B")
 
 # Omit columns 3 to 5
-data6_new <- data6[, -c(3:5)]
-data7_new <- data7[, -c(3:5)]
+data6_new <- data6[, -c(3)]
+data7_new <- data7[, -c(3)]
 
 # Format the last column to display only 2 decimal places
 data6_new[,ncol(data6_new)] <- round(data6_new[,ncol(data6_new)], 2)
@@ -219,7 +219,7 @@ data7_new[,ncol(data7_new)] <- round(data7_new[,ncol(data7_new)], 2)
 ```
 
 ## MAT402\
-**Remark** Total Carry marks as of 24th July 2023 is out of 42%, NOT as of 50%\
+<!-- **Remark** Total Carry marks as of 24th July 2023 is out of 42%, NOT as of 50%\ -->
 
 ::: {.panel-tabset}
 
