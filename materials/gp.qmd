@@ -59,7 +59,7 @@ Thanks for your cooperation.\
 ### **Group Assignment: Annuity in practices**\
 
 ### **Submission**\
-The assignment must be submitted into Google Drive folder assigned by your instructors **before 31.12.2022**. Failing to comply with the deadline given will result in deduction of marks.\
+The assignment must be submitted into Google Drive folder assigned by your instructors **before end of Week 11 (refer task for exact date)**. Failing to comply with the deadline given will result in deduction of marks.\
 
 ### **Preparation**\
 Set up a group that consists of maximum **FOUR (4)** members. In your lessons on Annuity, you learned the meaning of annuity, types, and the formulae of calculating annuities. In this assignment, you are required to make a short video (**3 - 5 minutes**) on how annuities are practiced in real life. You are encouraged to do research using Internet resources. You may use questions from the past semester final examination for creating problem solving process in annuity.\
@@ -85,7 +85,11 @@ The presentation is able to start and complete within the time frame (**3 - 5 mi
 
 ![Peer Evaluation](files/mat402_peer_rubric.png)\
 
-### 20232 Task\
+### Task\
+
+::: {.panel-tabset}
+
+## 20232\
 
 **Group Project Assignment: Annuity in the Context of Buying a House**\
 
@@ -140,3 +144,41 @@ The group project will be assessed based on the following criteria:\
 - Collaboration and active participation of all group members.\
 
 **Note:** Encourage students to engage in research, critical thinking, and problem-solving throughout the project. Emphasize the importance of effectively communicating their findings and solutions in the video presentation report.\
+
+## 20234\
+
+::: {.callout-note}
+## Discussion\
+
+In your own terms, elucidate the concept of annuity and succinctly delineate its distinctions from compound interest. If deemed necessary, furnish an illustrative example to substantiate your discourse.\
+
+:::
+
+::: {.callout-note}
+## **Case Study 1:** Annuities and Compound Interest Integration\
+
+[**Scenario:**]{style="color:blue;"}
+Alex is planning for retirement and is considering two annuity options: Annuity A, which pays RM1,500 every quarter, and Annuity B, which pays RM6,000 annually. Both annuities offer a fixed interest rate of 4% per annum, compounded quarterly. Alex intends to invest in one of these annuities for a period of 10 years.
+
+:::
+
+[**Question:**]{style="color:green;"}\
+1. Calculate the future value of both Annuity A and Annuity B after 10 years.\
+2. Analyze and explain the impact of the payment frequency on the future value of the annuities, considering the quarterly compounding of interest.\
+3. If Alex decides to extend the investment period to 15 years, recalculate the future value for both annuities and discuss how the extended time horizon affects the overall returns.\
+
+::: {.callout-note}
+## Case Study 2: Hire-Purchase Agreement and Annuities\
+
+[**Scenario:**]{style="color:blue;"}
+Emily is interested in purchasing a newly launched Proton S70 model, which costs RM73,800. She plans to finance the car through a hire-purchase agreement with a minimum down payment of 10% of the car price. The remaining amount will be financed through monthly payments over a 9-year period at an annual interest rate of 3.5% compounded monthly.\
+
+:::
+
+[**Question:**]{style="color:green;"}\
+1. Calculate the minimum down payment that Emily needs to make for the Proton S70.\
+2. Determine the monthly payment Emily must make over the 9-year period to complete the hire-purchase agreement.\
+3. Analyze and discuss the implications of the interest rate on the total amount paid by Emily over the financing period.\
+
+[**DUE DATE: 31.12.2023**]{style="color:red;"}
+:::
