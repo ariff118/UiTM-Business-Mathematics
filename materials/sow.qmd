@@ -251,3 +251,117 @@ datatable(data7_new,
 ```
 
 :::
+
+***
+
+## 20234 Continuous Assessment\
+
+```{r include=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+library(grid)
+library(DT)
+
+# Read data from specific sheet in excel
+data8 <- read_xlsx("OGA_20234_MAT112.xlsx", sheet = "MAT112 KBA1111D")
+data9 <- read_xlsx("OGA_20234_MAT112.xlsx", sheet = "MAT112 KBA1191B")
+data10 <- read_xlsx("OGA_20234_MAT112.xlsx", sheet = "MAT112 KBA1191C")
+data11 <- read_xlsx("OGA_20234_MAT112.xlsx", sheet = "MAT112 KBA1191D")
+data12 <- read_xlsx("OGA KAM2381A.xlsx")
+
+# Omit columns 3 to 5
+data8_new <- data8[, -c(3)]
+data9_new <- data9[, -c(3)]
+data10_new <- data10[, -c(3)]
+data11_new <- data11[, -c(3)]
+data12_new <- data12[, -c(3)]
+
+# Format the last column to display only 2 decimal places
+data8_new[,ncol(data8_new)] <- round(data8_new[,ncol(data8_new)], 2)
+data9_new[,ncol(data9_new)] <- round(data9_new[,ncol(data9_new)], 2)
+data10_new[,ncol(data10_new)] <- round(data10_new[,ncol(data10_new)], 2)
+data11_new[,ncol(data11_new)] <- round(data11_new[,ncol(data11_new)], 2)
+data12_new[,ncol(data12_new)] <- round(data12_new[,ncol(data12_new)], 2)
+```
+
+## MAT112\
+<!-- **Remark** Total Carry marks as of 24th July 2023 is out of 42%, NOT as of 50%\ -->
+
+::: {.panel-tabset}
+
+### KBA1111D\
+
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281A
+# kable(data4_new, "html", 
+#       caption = "Data from Sheet 4",
+#       escape = F) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data8_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+### KBA1191B  
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281B
+# kable(data5_new, "html", 
+# #      caption = "Data from Sheet 5",
+#       escape = T) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data9_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+### KBA1191C  
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281B
+# kable(data5_new, "html", 
+# #      caption = "Data from Sheet 5",
+#       escape = T) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data10_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+### KBA1191D  
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281B
+# kable(data5_new, "html", 
+# #      caption = "Data from Sheet 5",
+#       escape = T) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data11_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+:::
+
+## MAT401\
+<!-- **Remark** Total Carry marks as of 24th July 2023 is out of 42%, NOT as of 50%\ -->
+
+::: {.panel-tabset}
+
+### KAM2381A\
+
+```{r echo=FALSE}
+# Display 10 rows per page with page option button
+# MAT402 KAM2281A
+# kable(data4_new, "html", 
+#       caption = "Data from Sheet 4",
+#       escape = F) %>% 
+#   kable_styling(bootstrap_options = "striped", full_width = F)
+datatable(data12_new, 
+          options = list(scrollY = "500px", scrollCollapse = TRUE),
+          rownames = F)
+```
+
+:::
